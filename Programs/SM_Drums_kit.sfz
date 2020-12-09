@@ -1,0 +1,319 @@
+//SM Drums
+//whole kit mapping
+
+//This is the keymap - edit this part to remap the kit pieces to different MIDI notes, but do not forget to edit the bus files also
+
+//Kick
+#define $KICKKEY 36
+
+//All the snares
+#define $SIDESTKEY 37
+#define $SNARE3KEY 38
+#define $RIM1KEY 39
+#define $SNARE2KEY 40
+#define $SNARE1KEY 41
+#define $SNR65NRKEY 52
+#define $SNR67NRKEY 53
+#define $SNR65RKEY 64
+#define $RIM2KEY 65
+
+//Hi-hat articulations
+#define $HHCLOSEKEY 42
+#define $HHLOOSEKEY 44
+#define $HHOPENKEY 46
+#define $HHFOOTOPKEY 49
+#define $HHFOOTKEY 50
+#define $HHCLOPENKEY 51
+
+//Toms
+#define $TOMFLKEY 43
+#define $TOM2KEY 45
+#define $TOM3KEY 47
+#define $TOM4KEY 48
+
+//Crashes
+#define $CR13KEY 54
+#define $CR15KEY 55
+#define $CR16KEY 56
+#define $CR17KEY 57
+#define $CRCKEY 58
+
+//Rides
+#define $RI17EKEY 60
+#define $RI17BKEY 61
+#define $RI20EKEY 62
+#define $RI20BKEY 63
+
+//End of keymap - if you need to remap the kit pieces for your controller, you don't need to change anything below this point
+
+//Hi-hat mute group
+
+#define $HHGRP 3
+
+//MIDI CC assignments
+
+#define $KICKV 70
+
+#define $SIDEV 71
+#define $S65NRV 73
+#define $RIMV 73
+#define $S67NRV 73
+#define $S65RV 73
+#define $SHY1V 73
+#define $SHY2V 73
+#define $SHY3V 73
+#define $SHYRV 73
+
+#define $HATCV 81
+#define $HATLV 81
+#define $HATOV 81
+#define $HATFV 81
+#define $HATFOV 81
+#define $HATCOV 81
+
+#define $CR13V 93
+#define $CR15V 95
+#define $CR16V 97
+#define $CR17V 99
+#define $CRCV 101
+
+#define $RI17EV 103
+#define $RI17BV 104
+#define $RI20EV 106
+#define $RI20BV 107
+
+#define $TFLV 109
+#define $TLOV 111
+#define $TMIV 113
+#define $THIV 115
+
+#define $SIDEP 80
+#define $S65NRP 80
+#define $RIMP 80
+#define $S67NRP 80
+#define $S65RP 80
+#define $SHY1P 80
+#define $SHY2P 80
+#define $SHY3P 80
+#define $SHYRP 80
+
+#define $HATCP 92
+#define $HATLP 92
+#define $HATOP 92
+#define $HATFP 92
+#define $HATFOP 92
+#define $HATCOP 92
+
+#define $CR13P 94
+#define $CR15P 96
+#define $CR16P 98
+#define $CR17P 100
+#define $CRCP 102
+
+#define $RI17P 105
+#define $RI20P 108
+
+#define $TFLP 110
+#define $TLOP 112
+#define $TMIP 114
+#define $THIP 116
+
+#define $KICKT 20
+#define $KICKD 21
+
+#define $SNARET 36
+#define $SNARED 37
+
+#define $HATT 42
+#define $HATD 43
+
+#define $C13T 26
+#define $C15T 28
+#define $C16T 30
+#define $C17T 32
+#define $CRCT 34
+
+#define $C13D 27
+#define $C15D 29
+#define $C16D 31
+#define $C17D 33
+#define $CRCD 35
+
+#define $TFLT 50
+#define $TLOT 52
+#define $TMIT 54
+#define $THIT 56
+
+#define $TFLD 51
+#define $TLOD 53
+#define $TMID 55
+#define $THID 57
+
+#define $RI17T 16
+#define $RI20T 18
+#define $RI17D 17
+#define $RI20D 19
+
+<control>
+label_cc$KICKV=Kick
+label_cc$KICKT=Kick Tune
+label_cc$KICKD=Kick Decay
+
+label_cc$S65NRV=Snare
+label_cc$SIDEV=Sidestick
+label_cc$SIDEP=Snare Pan
+label_cc$SNARET=Snare Tune
+label_cc$SNARED=Snare Decay
+
+label_cc$HATCV=Hi-Hat
+label_cc$HATCP=Hi-Hat Pan
+label_cc$HATT=Hi-Hat Tune
+label_cc$HATD=Hi-Hat Decay
+
+label_cc$CR13V=Crash 13
+label_cc$CR13P=Crash 13 Pan
+label_cc$CR15V=Crash 15
+label_cc$CR15P=Crash 15 Pan
+label_cc$CR16V=Crash 16
+label_cc$CR16P=Crash 16 Pan
+label_cc$CR17V=Crash 17
+label_cc$CR17P=Crash 17 Pan
+label_cc$CRCV=China
+label_cc$CRCP=China Pan
+label_cc$C13T=Crash 13 Tune
+label_cc$C13D=Crash 13 Decay
+label_cc$C15T=Crash 15 Tune
+label_cc$C15D=Crash 15 Decay
+label_cc$C16T=Crash 16 Tune
+label_cc$C16D=Crash 16 Decay
+label_cc$C17T=Crash 17 Tune
+label_cc$C17D=Crash 17 Decay
+label_cc$CRCT=China Tune
+label_cc$CRCD=China Decay
+
+label_cc$RI17EV=Ride 17 Edge
+label_cc$RI17BV=Ride 17 Bell
+label_cc$RI17P=Ride 17 Pan
+label_cc$RI20EV=Ride 20 Edge
+label_cc$RI20BV=Ride 20 Bell
+label_cc$RI20P=Ride 20 Pan
+label_cc$RI20P=Ride 20 Pan
+label_cc$RI17T=Ride 17 Tune
+label_cc$RI17D=Ride 17 Decay
+label_cc$RI20T=Ride 20 Tune
+label_cc$RI20D=Ride 20 Decay
+
+label_cc$TFLV=Floor Tom
+label_cc$TFLP=Floor Tom Pan
+label_cc$TFLT=Floor Tom Tune
+label_cc$TFLD=Floor Tom Decay
+label_cc$TLOV=Low Tom
+label_cc$TLOP=Low Tom Pan
+label_cc$TLOT=Low Tom Tune
+label_cc$TLOD=Low Tom Decay
+label_cc$TMIV=Mid Tom
+label_cc$TMIP=Mid Tom Pan
+label_cc$TMIT=Mid Tom Tune
+label_cc$TMID=Mid Tom Decay
+label_cc$THIV=Hi Tom
+label_cc$THIP=Hi Tom Pan
+label_cc$THIT=Hi Tom Tune
+label_cc$THID=Hi Tom Decay
+
+set_cc$KICKV=127
+set_cc$KICKT=63
+set_cc$KICKD=0
+
+set_cc$S65NRV=127
+set_cc$SIDEV=127
+set_cc$SIDEP=64
+set_cc$SNARET=63
+set_cc$SNARED=0
+
+set_cc$HATCV=127
+set_cc$HATCP=64
+set_cc$HATT=63
+set_cc$HATD=0
+
+set_cc$CR13V=127
+set_cc$CR13P=64
+set_cc$CR15V=127
+set_cc$CR15P=64
+set_cc$CR16V=127
+set_cc$CR16P=64
+set_cc$CR17V=127
+set_cc$CR17P=64
+set_cc$CRCV=127
+set_cc$CRCP=64
+set_cc$C13T=63
+set_cc$C13D=0
+set_cc$C15T=63
+set_cc$C15D=0
+set_cc$C16T=63
+set_cc$C16D=0
+set_cc$C17T=63
+set_cc$C17D=0
+set_cc$CRCT=63
+set_cc$CRCD=0
+
+set_cc$RI17EV=127
+set_cc$RI17BV=127
+set_cc$RI17P=64
+set_cc$RI20EV=127
+set_cc$RI20BV=127
+set_cc$RI20P=64
+set_cc$RI17T=63
+set_cc$RI17D=0
+set_cc$RI20T=63
+set_cc$RI20D=0
+
+set_cc$TFLV=127
+set_cc$TFLP=64
+set_cc$TLOV=127
+set_cc$TLOP=64
+set_cc$TMIV=127
+set_cc$TMIP=64
+set_cc$THIV=127
+set_cc$THIP=64
+set_cc$TFLT=63
+set_cc$TFLD=0
+set_cc$TLOT=63
+set_cc$TLOD=0
+set_cc$TMIT=63
+set_cc$TMID=0
+set_cc$THIT=63
+set_cc$THID=0
+
+<global>
+loop_mode=one_shot
+
+#include "mappings/smdrums_sfz_kick.sfz"
+#include "mappings/smdrums_sfz_sidestick.sfz"
+#include "mappings/smdrums_sfz_rimshot.sfz"
+#include "mappings/smdrums_sfz_snare65reg.sfz"
+#include "mappings/smdrums_sfz_snare65nr.sfz"
+#include "mappings/smdrums_sfz_snare67nr.sfz"
+#include "mappings/smdrums_sfz_snarehy1.sfz"
+#include "mappings/smdrums_sfz_snarehy2.sfz"
+#include "mappings/smdrums_sfz_snarehy3.sfz"
+#include "mappings/smdrums_sfz_snarehyrim.sfz"
+#include "mappings/smdrums_sfz_closedhat.sfz"
+#include "mappings/smdrums_sfz_closedopenhat.sfz"
+#include "mappings/smdrums_sfz_foothat.sfz"
+#include "mappings/smdrums_sfz_footopenhat.sfz"
+#include "mappings/smdrums_sfz_loosehat.sfz"
+#include "mappings/smdrums_sfz_openhat.sfz"
+#include "mappings/smdrums_sfz_tom1.sfz"
+#include "mappings/smdrums_sfz_tom2.sfz"
+#include "mappings/smdrums_sfz_tom3.sfz"
+#include "mappings/smdrums_sfz_tom4.sfz"
+#include "mappings/smdrums_sfz_china.sfz"
+#include "mappings/smdrums_sfz_crash13.sfz"
+#include "mappings/smdrums_sfz_crash15.sfz"
+#include "mappings/smdrums_sfz_crash16.sfz"
+#include "mappings/smdrums_sfz_crash17.sfz"
+#include "mappings/smdrums_sfz_ride17tip.sfz"
+#include "mappings/smdrums_sfz_ride17bell.sfz"
+#include "mappings/smdrums_sfz_ride20tip.sfz"
+#include "mappings/smdrums_sfz_ride20bell.sfz"
+#include "mappings/smdrums_curves.sfz"

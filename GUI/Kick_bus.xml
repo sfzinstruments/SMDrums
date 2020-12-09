@@ -1,0 +1,25 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="drums_controls_tab_bus.png" transparent="0"  />
+	
+	<!-- Controls - Just the kick drum -->
+	
+	<StaticText x="339" y="19" w="100" h="20" text="KICK DRUM" color_text="#FFFFFFFF" transparent="1"  />
+
+	<StaticText x="339" y="37" w="100" h="18" text="Vol" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="70" x="376" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="339" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="20" x="372" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="21" x="372" y="280" image="Drum_knob.png" frames="128"  />
+
+
+
+</GUI>                                                                                                                                       

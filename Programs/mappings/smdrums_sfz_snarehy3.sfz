@@ -1,0 +1,356 @@
+<group>
+key=$SNARE3KEY
+seq_length=2
+amp_veltrack=0
+amplitude_oncc$SHY3V=100
+pan=-100
+pan_oncc$SHY3P=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\01_Snr_HyB3_RR1.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\02_Snr_HyB3_RR1.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\03_Snr_HyB3_RR1.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\04_Snr_HyB3_RR1.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\05_Snr_HyB3_RR1.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\06_Snr_HyB3_RR1.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\07_Snr_HyB3_RR1.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\08_Snr_HyB3_RR1.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\09_Snr_HyB3_RR1.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\10_Snr_HyB3_RR1.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\11_Snr_HyB3_RR1.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\12_Snr_HyB3_RR1.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\13_Snr_HyB3_RR1.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\14_Snr_HyB3_RR1.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\15_Snr_HyB3_RR1.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\16_Snr_HyB3_RR1.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\17_Snr_HyB3_RR1.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\18_Snr_HyB3_RR1.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\19_Snr_HyB3_RR1.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\20_Snr_HyB3_RR1.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\21_Snr_HyB3_RR1.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\22_Snr_HyB3_RR1.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\23_Snr_HyB3_RR1.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\24_Snr_HyB3_RR1.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\25_Snr_HyB3_RR1.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\26_Snr_HyB3_RR1.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\27_Snr_HyB3_RR1.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\28_Snr_HyB3_RR1.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\29_Snr_HyB3_RR1.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\30_Snr_HyB3_RR1.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\31_Snr_HyB3_RR1.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR1\32_Snr_HyB3_RR1.wav
+lovel=124
+
+<group>
+key=$SNARE3KEY
+seq_length=2
+seq_position=2
+amp_veltrack=0
+amplitude_oncc$SHY3V=100
+pan=-100
+pan_oncc$SHY3P=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\01_Snr_HyB3_RR2.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\02_Snr_HyB3_RR2.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\03_Snr_HyB3_RR2.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\04_Snr_HyB3_RR2.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\05_Snr_HyB3_RR2.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\06_Snr_HyB3_RR2.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\07_Snr_HyB3_RR2.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\08_Snr_HyB3_RR2.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\09_Snr_HyB3_RR2.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\10_Snr_HyB3_RR2.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\11_Snr_HyB3_RR2.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\12_Snr_HyB3_RR2.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\13_Snr_HyB3_RR2.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\14_Snr_HyB3_RR2.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\15_Snr_HyB3_RR2.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\16_Snr_HyB3_RR2.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\17_Snr_HyB3_RR2.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\18_Snr_HyB3_RR2.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\19_Snr_HyB3_RR2.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\20_Snr_HyB3_RR2.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\21_Snr_HyB3_RR2.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\22_Snr_HyB3_RR2.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\23_Snr_HyB3_RR2.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\24_Snr_HyB3_RR2.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\25_Snr_HyB3_RR2.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\26_Snr_HyB3_RR2.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\27_Snr_HyB3_RR2.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\28_Snr_HyB3_RR2.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\29_Snr_HyB3_RR2.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\30_Snr_HyB3_RR2.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\31_Snr_HyB3_RR2.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SMD_Snr_Str_HyB3 (Samples)\RR2\32_Snr_HyB3_RR2.wav
+lovel=124

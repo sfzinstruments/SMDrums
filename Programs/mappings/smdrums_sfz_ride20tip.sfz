@@ -1,0 +1,545 @@
+
+<group>
+key=$RI20EKEY
+
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$RI20EV=100
+pan=-100
+pan_oncc$RI20P=200
+tune=-1200
+tune_oncc$RI20T=4800
+tune_curvecc$RI20T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI20D=-0.4
+ampeg_hold_curvecc$RI20D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI20D=-1.9
+ampeg_decay_curvecc$RI20D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI20D=-100
+ampeg_sustain_curvecc$RI20D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\01_Ride_20in_R_Cnt_Tip_RR1.wav
+hivel=6
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\02_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=7
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\03_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=13
+hivel=17
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\04_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=18
+hivel=23
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\05_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=24
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\06_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=29
+hivel=34
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\07_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=35
+hivel=39
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\08_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=40
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\09_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=46
+hivel=50
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\10_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=51
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\11_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\12_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=62
+hivel=67
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\13_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=68
+hivel=72
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\14_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=73
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\15_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=79
+hivel=83
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\16_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=84
+hivel=89
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\17_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=90
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\18_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=95
+hivel=100
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\19_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=101
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\20_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\21_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\22_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=117
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR1\23_Ride_20in_R_Cnt_Tip_RR1.wav
+lovel=123
+
+//========================
+<group>
+key=$RI20EKEY
+
+lorand=0.250
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$RI20EV=100
+pan=-100
+pan_oncc$RI20P=200
+tune=-1200
+tune_oncc$RI20T=4800
+tune_curvecc$RI20T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI20D=-0.4
+ampeg_hold_curvecc$RI20D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI20D=-1.9
+ampeg_decay_curvecc$RI20D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI20D=-100
+ampeg_sustain_curvecc$RI20D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\01_Ride_20in_R_Cnt_Tip_RR2.wav
+hivel=6
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\02_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=7
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\03_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=13
+hivel=17
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\04_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=18
+hivel=23
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\05_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=24
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\06_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=29
+hivel=34
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\07_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=35
+hivel=39
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\08_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=40
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\09_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=46
+hivel=50
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\10_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=51
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\11_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\12_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=62
+hivel=67
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\13_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=68
+hivel=72
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\14_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=73
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\15_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=79
+hivel=83
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\16_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=84
+hivel=89
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\17_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=90
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\18_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=95
+hivel=100
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\19_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=101
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\20_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\21_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\22_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=117
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR2\23_Ride_20in_R_Cnt_Tip_RR2.wav
+lovel=123
+
+//========================
+<group>
+key=$RI20EKEY
+
+lorand=0.500
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$RI20EV=100
+pan=-100
+pan_oncc$RI20P=200
+tune=-1200
+tune_oncc$RI20T=4800
+tune_curvecc$RI20T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI20D=-0.4
+ampeg_hold_curvecc$RI20D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI20D=-1.9
+ampeg_decay_curvecc$RI20D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI20D=-100
+ampeg_sustain_curvecc$RI20D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\01_Ride_20in_R_Cnt_Tip_RR3.wav
+hivel=6
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\02_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=7
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\03_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=13
+hivel=17
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\04_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=18
+hivel=23
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\05_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=24
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\06_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=29
+hivel=34
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\07_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=35
+hivel=39
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\08_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=40
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\09_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=46
+hivel=50
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\10_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=51
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\11_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\12_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=62
+hivel=67
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\13_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=68
+hivel=72
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\14_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=73
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\15_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=79
+hivel=83
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\16_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=84
+hivel=89
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\17_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=90
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\18_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=95
+hivel=100
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\19_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=101
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\20_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\21_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\22_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=117
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR3\23_Ride_20in_R_Cnt_Tip_RR3.wav
+lovel=123
+
+//========================
+<group>
+key=$RI20EKEY
+
+lorand=0.750
+
+amp_veltrack=0
+amplitude_oncc$RI20EV=100
+pan=-100
+pan_oncc$RI20P=200
+tune=-1200
+tune_oncc$RI20T=4800
+tune_curvecc$RI20T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI20D=-0.4
+ampeg_hold_curvecc$RI20D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI20D=-1.9
+ampeg_decay_curvecc$RI20D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI20D=-100
+ampeg_sustain_curvecc$RI20D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\01_Ride_20in_R_Cnt_Tip_RR4.wav
+hivel=6
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\02_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=7
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\03_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=13
+hivel=17
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\04_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=18
+hivel=23
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\05_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=24
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\06_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=29
+hivel=34
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\07_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=35
+hivel=39
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\08_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=40
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\09_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=46
+hivel=50
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\10_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=51
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\11_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\12_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=62
+hivel=67
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\13_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=68
+hivel=72
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\14_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=73
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\15_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=79
+hivel=83
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\16_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=84
+hivel=89
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\17_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=90
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\18_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=95
+hivel=100
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\19_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=101
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\20_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\21_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\22_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=117
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 20 (Samples)\RR4\23_Ride_20in_R_Cnt_Tip_RR4.wav
+lovel=123

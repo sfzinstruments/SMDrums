@@ -1,0 +1,70 @@
+//SM Drums
+//Hi-hat bus
+
+//Key assignments for the hi-hat articulations
+#define $HHCLOSEKEY 42
+#define $HHLOOSEKEY 44
+#define $HHOPENKEY 46
+#define $HHFOOTOPKEY 49
+#define $HHFOOTKEY 50
+#define $HHCLOPENKEY 51
+
+//The number of the hi-hat off group
+
+#define $HHGRP 3
+
+#define $HATCV 81
+#define $HATLV 83
+#define $HATOV 85
+#define $HATFV 87
+#define $HATFOV 89
+#define $HATCOV 91
+
+
+#define $HATCP 92
+#define $HATLP 92
+#define $HATOP 92
+#define $HATFP 92
+#define $HATFOP 92
+#define $HATCOP 92
+
+#define $HATT 42
+#define $HATD 43
+
+
+<control>
+
+label_cc$HATCV=Hi-Hat Tight
+label_cc$HATLV=Hi-Hat Loose
+label_cc$HATOV=Hi-Hat Open
+label_cc$HATFV=Hi-Hat Foot
+label_cc$HATFOV=Hi-Hat Foot Open
+label_cc$HATCOV=Hi-Hat Close Open
+label_cc$HATCP=Hi-Hat Pan
+label_cc$HATT=Hi-Hat Tune
+label_cc$HATD=Hi-Hat Decay
+
+
+
+set_cc$HATCV=127
+set_cc$HATLV=127
+set_cc$HATOV=127
+set_cc$HATFV=127
+set_cc$HATFOV=127
+set_cc$HATCOV=127
+set_cc$HATCP=64
+set_cc$HATT=63
+set_cc$HATD=0
+
+
+<global>
+loop_mode=one_shot
+
+
+#include "mappings/smdrums_sfz_closedhat.sfz"
+#include "mappings/smdrums_sfz_closedopenhat.sfz"
+#include "mappings/smdrums_sfz_foothat.sfz"
+#include "mappings/smdrums_sfz_footopenhat.sfz"
+#include "mappings/smdrums_sfz_loosehat.sfz"
+#include "mappings/smdrums_sfz_openhat.sfz"
+#include "mappings/smdrums_curves.sfz"

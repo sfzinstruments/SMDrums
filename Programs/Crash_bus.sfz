@@ -1,0 +1,91 @@
+//SM Drums
+//Crash bus
+
+//Keymap for the crashes
+#define $CR13KEY 54
+#define $CR15KEY 55
+#define $CR16KEY 56
+#define $CR17KEY 57
+#define $CRCKEY 58
+
+#define $CR13V 93
+#define $CR15V 95
+#define $CR16V 97
+#define $CR17V 99
+#define $CRCV 101
+
+#define $CR13P 94
+#define $CR15P 96
+#define $CR16P 98
+#define $CR17P 100
+#define $CRCP 102
+
+#define $C13T 26
+#define $C15T 28
+#define $C16T 30
+#define $C17T 32
+#define $CRCT 34
+
+#define $C13D 27
+#define $C15D 29
+#define $C16D 31
+#define $C17D 33
+#define $CRCD 35
+
+
+<control>
+
+label_cc$CR13V=Crash 13
+label_cc$CR13P=Crash 13 Pan
+label_cc$CR15V=Crash 15
+label_cc$CR15P=Crash 15 Pan
+label_cc$CR16V=Crash 16
+label_cc$CR16P=Crash 16 Pan
+label_cc$CR17V=Crash 17
+label_cc$CR17P=Crash 17 Pan
+label_cc$CRCV=China
+label_cc$CRCP=China Pan
+label_cc$C13T=Crash 13 Tune
+label_cc$C13D=Crash 13 Decay
+label_cc$C15T=Crash 15 Tune
+label_cc$C15D=Crash 15 Decay
+label_cc$C16T=Crash 16 Tune
+label_cc$C16D=Crash 16 Decay
+label_cc$C17T=Crash 17 Tune
+label_cc$C17D=Crash 17 Decay
+label_cc$CRCT=China Tune
+label_cc$CRCD=China Decay
+
+
+
+set_cc$CR13V=127
+set_cc$CR13P=64
+set_cc$CR15V=127
+set_cc$CR15P=64
+set_cc$CR16V=127
+set_cc$CR16P=64
+set_cc$CR17V=127
+set_cc$CR17P=64
+set_cc$CRCV=127
+set_cc$CRCP=64
+set_cc$C13T=63
+set_cc$C13D=0
+set_cc$C15T=63
+set_cc$C15D=0
+set_cc$C16T=63
+set_cc$C16D=0
+set_cc$C17T=63
+set_cc$C17D=0
+set_cc$CRCT=63
+set_cc$CRCD=0
+
+
+<global>
+loop_mode=one_shot
+
+#include "mappings/smdrums_sfz_china.sfz"
+#include "mappings/smdrums_sfz_crash13.sfz"
+#include "mappings/smdrums_sfz_crash15.sfz"
+#include "mappings/smdrums_sfz_crash16.sfz"
+#include "mappings/smdrums_sfz_crash17.sfz"
+#include "mappings/smdrums_curves.sfz"

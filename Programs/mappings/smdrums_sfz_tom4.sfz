@@ -1,0 +1,585 @@
+
+<group>
+key=$TOM4KEY
+
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$THIV=100
+pan=-100
+pan_oncc$THIP=200
+tune=-1200
+tune_oncc$THIT=4800
+tune_curvecc$THIT=9
+ampeg_hold=0.3
+ampeg_hold_oncc$THID=-0.3
+ampeg_hold_curvecc$THID=8
+ampeg_decay=1
+ampeg_decay_oncc$THID=-0.9
+ampeg_decay_curvecc$THID=8
+ampeg_sustain=100
+ampeg_sustain_oncc$THID=-100
+ampeg_sustain_curvecc$THID=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\01_Tom1_Stereo_RR1.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\02_Tom1_Stereo_RR1.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\03_Tom1_Stereo_RR1.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\04_Tom1_Stereo_RR1.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\05_Tom1_Stereo_RR1.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\06_Tom1_Stereo_RR1.wav
+lovel=26
+hivel=30
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\07_Tom1_Stereo_RR1.wav
+lovel=31
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\08_Tom1_Stereo_RR1.wav
+lovel=36
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\09_Tom1_Stereo_RR1.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\10_Tom1_Stereo_RR1.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\11_Tom1_Stereo_RR1.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\12_Tom1_Stereo_RR1.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\13_Tom1_Stereo_RR1.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\14_Tom1_Stereo_RR1.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\15_Tom1_Stereo_RR1.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\16_Tom1_Stereo_RR1.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\17_Tom1_Stereo_RR1.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\18_Tom1_Stereo_RR1.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\19_Tom1_Stereo_RR1.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\20_Tom1_Stereo_RR1.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\21_Tom1_Stereo_RR1.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\22_Tom1_Stereo_RR1.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\23_Tom1_Stereo_RR1.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\24_Tom1_Stereo_RR1.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR1\25_Tom1_Stereo_RR1.wav
+lovel=123
+
+//========================
+<group>
+key=$TOM4KEY
+
+lorand=0.250
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$THIV=100
+pan=-100
+pan_oncc$THIP=200
+tune=-1200
+tune_oncc$THIT=4800
+tune_curvecc$THIT=9
+ampeg_hold=0.3
+ampeg_hold_oncc$THID=-0.3
+ampeg_hold_curvecc$THID=8
+ampeg_decay=1
+ampeg_decay_oncc$THID=-0.9
+ampeg_decay_curvecc$THID=8
+ampeg_sustain=100
+ampeg_sustain_oncc$THID=-100
+ampeg_sustain_curvecc$THID=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\01_Tom1_Stereo_RR2.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\02_Tom1_Stereo_RR2.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\03_Tom1_Stereo_RR2.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\04_Tom1_Stereo_RR2.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\05_Tom1_Stereo_RR2.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\06_Tom1_Stereo_RR2.wav
+lovel=26
+hivel=30
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\07_Tom1_Stereo_RR2.wav
+lovel=31
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\08_Tom1_Stereo_RR2.wav
+lovel=36
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\09_Tom1_Stereo_RR2.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\10_Tom1_Stereo_RR2.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\11_Tom1_Stereo_RR2.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\12_Tom1_Stereo_RR2.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\13_Tom1_Stereo_RR2.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\14_Tom1_Stereo_RR2.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\15_Tom1_Stereo_RR2.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\16_Tom1_Stereo_RR2.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\17_Tom1_Stereo_RR2.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\18_Tom1_Stereo_RR2.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\19_Tom1_Stereo_RR2.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\20_Tom1_Stereo_RR2.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\21_Tom1_Stereo_RR2.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\22_Tom1_Stereo_RR2.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\23_Tom1_Stereo_RR2.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\24_Tom1_Stereo_RR2.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR2\25_Tom1_Stereo_RR2.wav
+lovel=123
+
+//========================
+<group>
+key=$TOM4KEY
+
+lorand=0.500
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$THIV=100
+pan=-100
+pan_oncc$THIP=200
+tune=-1200
+tune_oncc$THIT=4800
+tune_curvecc$THIT=9
+ampeg_hold=0.3
+ampeg_hold_oncc$THID=-0.3
+ampeg_hold_curvecc$THID=8
+ampeg_decay=1
+ampeg_decay_oncc$THID=-0.9
+ampeg_decay_curvecc$THID=8
+ampeg_sustain=100
+ampeg_sustain_oncc$THID=-100
+ampeg_sustain_curvecc$THID=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\01_Tom1_Stereo_RR3.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\02_Tom1_Stereo_RR3.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\03_Tom1_Stereo_RR3.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\04_Tom1_Stereo_RR3.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\05_Tom1_Stereo_RR3.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\06_Tom1_Stereo_RR3.wav
+lovel=26
+hivel=30
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\07_Tom1_Stereo_RR3.wav
+lovel=31
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\08_Tom1_Stereo_RR3.wav
+lovel=36
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\09_Tom1_Stereo_RR3.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\10_Tom1_Stereo_RR3.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\11_Tom1_Stereo_RR3.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\12_Tom1_Stereo_RR3.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\13_Tom1_Stereo_RR3.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\14_Tom1_Stereo_RR3.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\15_Tom1_Stereo_RR3.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\16_Tom1_Stereo_RR3.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\17_Tom1_Stereo_RR3.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\18_Tom1_Stereo_RR3.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\19_Tom1_Stereo_RR3.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\20_Tom1_Stereo_RR3.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\21_Tom1_Stereo_RR3.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\22_Tom1_Stereo_RR3.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\23_Tom1_Stereo_RR3.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\24_Tom1_Stereo_RR3.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR3\25_Tom1_Stereo_RR3.wav
+lovel=123
+
+//========================
+<group>
+key=$TOM4KEY
+
+lorand=0.750
+
+amp_veltrack=0
+amplitude_oncc$THIV=100
+pan=-100
+pan_oncc$THIP=200
+tune=-1200
+tune_oncc$THIT=4800
+tune_curvecc$THIT=9
+ampeg_hold=0.3
+ampeg_hold_oncc$THID=-0.3
+ampeg_hold_curvecc$THID=8
+ampeg_decay=1
+ampeg_decay_oncc$THID=-0.9
+ampeg_decay_curvecc$THID=8
+ampeg_sustain=100
+ampeg_sustain_oncc$THID=-100
+ampeg_sustain_curvecc$THID=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\01_Tom1_Stereo_RR4.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\02_Tom1_Stereo_RR4.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\03_Tom1_Stereo_RR4.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\04_Tom1_Stereo_RR4.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\05_Tom1_Stereo_RR4.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\06_Tom1_Stereo_RR4.wav
+lovel=26
+hivel=30
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\07_Tom1_Stereo_RR4.wav
+lovel=31
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\08_Tom1_Stereo_RR4.wav
+lovel=36
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\09_Tom1_Stereo_RR4.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\10_Tom1_Stereo_RR4.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\11_Tom1_Stereo_RR4.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\12_Tom1_Stereo_RR4.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\13_Tom1_Stereo_RR4.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\14_Tom1_Stereo_RR4.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\15_Tom1_Stereo_RR4.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\16_Tom1_Stereo_RR4.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\17_Tom1_Stereo_RR4.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\18_Tom1_Stereo_RR4.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\19_Tom1_Stereo_RR4.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\20_Tom1_Stereo_RR4.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\21_Tom1_Stereo_RR4.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\22_Tom1_Stereo_RR4.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\23_Tom1_Stereo_RR4.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\24_Tom1_Stereo_RR4.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Toms_Stereo\Tom1\RR4\25_Tom1_Stereo_RR4.wav
+lovel=123

@@ -1,0 +1,81 @@
+//SM Drums
+//Snare bus
+
+//Keymap for the snares
+#define $SIDESTKEY 37
+#define $SNARE1KEY 38
+#define $RIM1KEY 39
+#define $SNARE2KEY 40
+#define $SNARE3KEY 41
+#define $SNR65NRKEY 52
+#define $SNR67NRKEY 53
+#define $SNR65RKEY 64
+#define $RIM2KEY 65
+
+#define $SIDEV 71
+#define $S65NRV 73
+#define $RIMV 75
+#define $S67NRV 77
+#define $S65RV 79
+#define $SHY1V 22
+#define $SHY2V 23
+#define $SHY3V 24
+#define $SHYRV 25
+
+#define $SIDEP 80
+#define $S65NRP 80
+#define $RIMP 80
+#define $S67NRP 80
+#define $S65RP 80
+#define $SHY1P 80
+#define $SHY2P 80
+#define $SHY3P 80
+#define $SHYRP 80
+
+#define $SNARET 36
+#define $SNARED 37
+
+
+<control>
+label_cc$RIMV=Rimshot
+label_cc$S65NRV=Snare 65 NR
+label_cc$SIDEV=Sidestick
+label_cc$S67NRV=Snare 67 NR
+label_cc$S65RV=Snare 65 Reg
+label_cc$SHY1V=Snare HyB 3
+label_cc$SHY2V=Snare HyB 2
+label_cc$SHY3V=Snare HyB 1
+label_cc$SHYRV=Snare HyB Rim
+label_cc$SIDEP=Snare Pan
+label_cc$SNARET=Snare Tune
+label_cc$SNARED=Snare Decay
+
+
+
+set_cc$RIMV=127
+set_cc$S65NRV=127
+set_cc$S67NRV=127
+set_cc$SIDEV=127
+set_cc$S65RV=127
+set_cc$SHY1V=127
+set_cc$SHY2V=127
+set_cc$SHY3V=127
+set_cc$SHYRV=127
+set_cc$SIDEP=64
+set_cc$SNARET=63
+set_cc$SNARED=0
+
+
+<global>
+loop_mode=one_shot
+
+#include "mappings/smdrums_sfz_sidestick.sfz"
+#include "mappings/smdrums_sfz_rimshot.sfz"
+#include "mappings/smdrums_sfz_snare65reg.sfz"
+#include "mappings/smdrums_sfz_snare65nr.sfz"
+#include "mappings/smdrums_sfz_snare67nr.sfz"
+#include "mappings/smdrums_sfz_snarehy1.sfz"
+#include "mappings/smdrums_sfz_snarehy2.sfz"
+#include "mappings/smdrums_sfz_snarehy3.sfz"
+#include "mappings/smdrums_sfz_snarehyrim.sfz"
+#include "mappings/smdrums_curves.sfz"

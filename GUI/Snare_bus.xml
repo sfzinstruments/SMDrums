@@ -1,0 +1,61 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="drums_controls_tab_bus.png" transparent="0"  />
+	
+	<!-- Controls - Snare drum -->
+	
+	<StaticText x="339" y="19" w="100" h="20" text="SNARE DRUMS" color_text="#FFFFFFFF" transparent="1"  />
+
+	<StaticText x="179" y="37" w="100" h="18" text="Sdstick" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="71" x="216" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="219" y="37" w="100" h="18" text="HyB 3" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="22" x="256" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="259" y="37" w="100" h="18" text="HyB rim" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="25" x="296" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="299" y="37" w="100" h="18" text="HyB 2" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="23" x="336" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="339" y="37" w="100" h="18" text="HyB 1" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="24" x="376" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="379" y="37" w="100" h="18" text="65 NR" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="73" x="416" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="419" y="37" w="100" h="18" text="67 NR" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="77" x="456" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="459" y="37" w="100" h="18" text="65 ring" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="79" x="496" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="499" y="37" w="100" h="18" text="65 rim" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="75" x="536" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="339" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="80" x="372" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="36" x="372" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="37" x="372" y="280" image="Drum_knob.png" frames="128"  />
+
+
+
+</GUI>                                                                                                                                       

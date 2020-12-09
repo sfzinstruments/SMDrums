@@ -1,0 +1,10 @@
+<GUI w="773" h="335"  >
+
+	<StaticImage  x="0" y="0" w="773" h="335"  image="Info_tab.png"  />
+
+	<CommandButton command="launch_url"    data0="http://smmdrums.wordpress.com/"  x="281" y="27" w="233" h="65" image="btn_url.png"   />
+
+
+
+	
+</GUI>

@@ -1,0 +1,621 @@
+<TRACK
+  NAME "Kik, Snare, Toms (Midi)"
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 0 0.6667 0.5 1 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 4096 1 7 0 0 0
+  VU 2
+  TRACKHEIGHT 68 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {8B78F7C9-FDDD-474B-A893-B519792DDEA1}
+  PERF 0
+  MIDIOUT -1
+  <MIDINOTENAMES
+    0 0 ""
+    0 1 ""
+    0 2 ""
+    0 3 ""
+    0 4 ""
+    0 5 ""
+    0 6 ""
+    0 7 ""
+    0 8 ""
+    0 9 ""
+    0 10 ""
+    0 11 ""
+    0 12 ""
+    0 13 ""
+    0 14 ""
+    0 15 ""
+    0 16 ""
+    0 17 ""
+    0 18 ""
+    0 19 ""
+    0 20 ""
+    0 21 ""
+    0 22 ""
+    0 23 ""
+    0 24 ""
+    0 25 ""
+    0 26 ""
+    0 27 ""
+    0 28 ""
+    0 29 ""
+    0 30 ""
+    0 31 ""
+    0 32 ""
+    0 33 ""
+    0 34 ""
+    0 35 ""
+    0 36 Kik
+    0 37 SideStick
+    0 38 Snr-HyB1
+    0 39 RmSht-HyB
+    0 40 Snr-HyB2
+    0 41 Snr-HyB3
+    0 42 "Hat Clsd"
+    0 43 TomFloor
+    0 44 "Hat Loose"
+    0 45 TomLow
+    0 46 "Hat Opn"
+    0 47 TomMid
+    0 48 TomHi
+    0 49 Hat-Ft-Opn
+    0 50 Foot
+    0 51 Hat-Cls-Opn
+    0 52 Snr65_NR
+    0 53 Snr67_NR
+    0 54 Crash13
+    0 55 Crash15
+    0 56 Crash16
+    0 57 Crash17
+    0 58 "China "
+    0 59 ""
+    0 60 Ride17
+    0 61 Ride17Bel
+    0 62 Ride20
+    0 63 Ride20Bel
+    0 64 Snr65_Reg
+    0 65 ""
+    0 66 ""
+    0 67 ""
+    0 68 ""
+    0 69 ""
+    0 70 ""
+    0 71 ""
+    0 72 ""
+    0 73 ""
+    0 74 ""
+    0 75 ""
+    0 76 ""
+    0 77 ""
+    0 78 ""
+    0 79 ""
+    0 80 ""
+    0 81 ""
+    0 82 ""
+    0 83 ""
+    0 84 ""
+    0 85 ""
+    0 86 ""
+    0 87 ""
+    0 88 ""
+    0 89 ""
+    0 90 ""
+    0 91 ""
+    0 92 ""
+    0 93 ""
+    0 94 ""
+    0 95 ""
+    0 96 ""
+    0 97 ""
+    0 98 ""
+    0 99 ""
+    0 100 ""
+    0 101 ""
+    0 102 ""
+    0 103 ""
+    0 104 ""
+    0 105 ""
+    0 106 ""
+    0 107 ""
+    0 108 ""
+    0 109 ""
+    0 110 ""
+    0 111 ""
+    0 112 ""
+    0 113 ""
+    0 114 ""
+    0 115 ""
+    0 116 ""
+    0 117 ""
+    0 118 ""
+    0 119 ""
+    0 120 ""
+    0 121 ""
+    0 122 ""
+    0 123 ""
+    0 124 ""
+    0 125 ""
+    0 126 ""
+    0 127 ""
+  >
+  MAINSEND 0 0
+  <FXCHAIN
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+>
+<TRACK
+  NAME "Hat, Ride, Crash (Midi) "
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 0 0.6667 0.5 1 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 4096 1 7 0 0 0
+  VU 2
+  TRACKHEIGHT 68 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {1DD8B3B6-B27A-41C6-A65C-CE36B6A27B6E}
+  PERF 0
+  MIDIOUT -1
+  <MIDINOTENAMES
+    0 0 ""
+    0 1 ""
+    0 2 ""
+    0 3 ""
+    0 4 ""
+    0 5 ""
+    0 6 ""
+    0 7 ""
+    0 8 ""
+    0 9 ""
+    0 10 ""
+    0 11 ""
+    0 12 ""
+    0 13 ""
+    0 14 ""
+    0 15 ""
+    0 16 ""
+    0 17 ""
+    0 18 ""
+    0 19 ""
+    0 20 ""
+    0 21 ""
+    0 22 ""
+    0 23 ""
+    0 24 ""
+    0 25 ""
+    0 26 ""
+    0 27 ""
+    0 28 ""
+    0 29 ""
+    0 30 ""
+    0 31 ""
+    0 32 ""
+    0 33 ""
+    0 34 ""
+    0 35 ""
+    0 36 Kik
+    0 37 SideStick
+    0 38 Snr-HyB1
+    0 39 RmSht-HyB
+    0 40 Snr-HyB2
+    0 41 Snr-HyB3
+    0 42 "Hat Clsd"
+    0 43 TomFloor
+    0 44 "Hat Loose"
+    0 45 TomLow
+    0 46 "Hat Opn"
+    0 47 TomMid
+    0 48 TomHi
+    0 49 Hat-Ft-Opn
+    0 50 Foot
+    0 51 Hat-Cls-Opn
+    0 52 Snr65_NR
+    0 53 Snr67_NR
+    0 54 Crash13
+    0 55 Crash15
+    0 56 Crash16
+    0 57 Crash17
+    0 58 "China "
+    0 59 ""
+    0 60 Ride17
+    0 61 Ride17Bel
+    0 62 Ride20
+    0 63 Ride20Bel
+    0 64 Snr65_Reg
+    0 65 ""
+    0 66 ""
+    0 67 ""
+    0 68 ""
+    0 69 ""
+    0 70 ""
+    0 71 ""
+    0 72 ""
+    0 73 ""
+    0 74 ""
+    0 75 ""
+    0 76 ""
+    0 77 ""
+    0 78 ""
+    0 79 ""
+    0 80 ""
+    0 81 ""
+    0 82 ""
+    0 83 ""
+    0 84 ""
+    0 85 ""
+    0 86 ""
+    0 87 ""
+    0 88 ""
+    0 89 ""
+    0 90 ""
+    0 91 ""
+    0 92 ""
+    0 93 ""
+    0 94 ""
+    0 95 ""
+    0 96 ""
+    0 97 ""
+    0 98 ""
+    0 99 ""
+    0 100 ""
+    0 101 ""
+    0 102 ""
+    0 103 ""
+    0 104 ""
+    0 105 ""
+    0 106 ""
+    0 107 ""
+    0 108 ""
+    0 109 ""
+    0 110 ""
+    0 111 ""
+    0 112 ""
+    0 113 ""
+    0 114 ""
+    0 115 ""
+    0 116 ""
+    0 117 ""
+    0 118 ""
+    0 119 ""
+    0 120 ""
+    0 121 ""
+    0 122 ""
+    0 123 ""
+    0 124 ""
+    0 125 ""
+    0 126 ""
+    0 127 ""
+  >
+  MAINSEND 0 0
+  <FXCHAIN
+    WNDRECT 24 52 655 403
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+  >
+>
+<TRACK
+  NAME "Midi Receive for Sforzando"
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 5088 1 0 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {B01D34BD-0474-4836-AF1B-01ED444F0B2D}
+  PERF 0
+  AUXRECV 0 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  AUXRECV 1 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 0 0
+>
+<TRACK
+  NAME Kik
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {9EBC555C-DAB9-49EF-9A8D-757012D56431}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 29 60 1021 607
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADEAQAAAQAAAAAAEAA=
+      Q0VHUNQEAAB4nI2Ub2vbMBDG3xf2HYTeN5EcO8kgXsnWUkwJHSR7Pc6KmonqT2ZLpv32vSix48GK7Tf2Pfrp7vTg0+ruzWjSyKpWzuaUTxgld9++3KzWlYItNLK3tkyX
+      lBwrtw/CF/coMJ5SZAk+q630XtlDTf4G0Mq/4zIlta8kGJRzOksoMfC2jcpaayc233OacZQ3xX3xHPzG7WXcBcE7Ax6LbrXzOWV9SctG6pwqi7mDkdZTolUjz5uRrAXW
+      im/QgAont0SeeprUQl/kH7hNVjmdI3fQrgS9CzZ2icK0OxEWJ2ofRQsG0z8p8UrKUFNSgn0tcCnJ2IL2LGIMYfEHrD01eYuHOTqNXsxTSvy1xrH8XYE9yAviMajjgul9
+      OuHR/+5QCRYywUfh0mJscwPKtm02oMPZw+l/Ed4h7DMkGUZmw0g6jGTDyHwYWQwjy2Hk6zDC2QhmhL98hMF8hMN8hMX8c49/QgXmUqzX9SRbpEs244tZliYsOf1z3TxM
+      TwPRBg8vL1L4/oi0g3celbUplbRCXkcl3hb/3CbzXvLHX0WbCITHgS6usx/jhy6upcbScr+DsjvXatreVxh8AOb1Q0Q=
+      AAAQAAAA
+    >
+    FLOATPOS 339 143 791 560
+    FXID {CAF3BF5D-130F-4334-B70D-39221E478C1B}
+    WAK 0
+  >
+>
+<TRACK
+  NAME Snare
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {1052C594-91A9-4894-8138-1293ED084365}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 764 528 774 462
+    SHOW 0
+    LASTSEL 1
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADEAQAAAQAAAAAAEAA=
+      Q0VHUNUEAAB4nI2UTY+bMBCG75X6HyzfN7EJBFYKXaXdVcUhaiW259XgeFOr/kjBRtt/34kTEip1BbmQef14ZvzCePPwZjTpZdspZ0vKF4ySh08fP2y2rYIaejlaK9KC
+      kmPr9kH46hEFxlOKLMHfppbeK3voyO8AWvk/uExJ51sJBuWSrhJKDLzVUdlq7cTuc0kzjvKueqy+Bb9zexl3QfDOgMeitXa+pGwsadlLXVJlMXcw0npKtOrleTOSnShp
+      UpyeoAEVTu6IPPW06IS+yF9wm2xLukb+oF0D+jnY2CUKy+uJsDhR+yhaMJi+ttBK0oSOkgbsrwrXkozldOQRY0iLn2Dtqcs7PM3RaTRjnVLib0WOzUsL9iAviMegiwtm
+      9NcJjy/gdqoMteCjcOkx9rkDZYc+e9DhbOLyvwi/Iuw9JJlGVtNIOo1k08h6GsmnkWIauZ9GOJvBzPCXzzCYz3CYz7CYv+/xd2jBXIqNul5keVqwFc9XWZqwJMlHA7E8
+      TcQQPL2+SuHHMzJM3nlWtqZR0gp5G5V4XfxznaxHyb/+qIZEIDxOdHUb/hg/XeNOaiwt98/QXD/1zXK4sDD4CxDHQ8g=
+      AAAQAAAA
+    >
+    FLOATPOS 65 106 791 560
+    FXID {36B11269-2935-4902-B33B-AD278872FA95}
+    WAK 0
+    BYPASS 0 0 0
+    <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAA
+      IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAYGhAAGibALBo+D+RcD0K16PQPwEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+      8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA==
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {7DCAD220-FB4D-4CCE-85A6-F60791791AD6}
+    WAK 0
+  >
+>
+<TRACK
+  NAME Hat
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {5AC6B3F4-36C3-438E-8582-E17023B65AA6}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 61 92 655 403
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADGAQAAAQAAAAAAEAA=
+      Q0VHUNcEAAB4nI2UTW/bMAyG7wP2HwTdk0j+zIC4RbYWmw/BBqQ7F7SipsIkObMlo/v3o5U48YAVti82Xz0iKRqvNvdvRpNONq2qbUH5klFyf/fxw2bbKNhDJ0dr62RN
+      yampD1648gEFxhOKLMFns5fOKXtsyW8PWrk/uExJ6xoJBuWCxhElBt72QdlqXYvd54KmHOVd+VB+925XH2TYBd7VBhwW3evaFZSNJS07qQuqLOb2RlpHiVadPG9GshWY
+      I+vfoAEVThZE9j0tW6Ev8hfcJpuCZsgfdV2BfvI2dInC6noiLE7UIYgWDKb/phav4EjlW0oqsL9KXIxSltPRkBhDXLyCtX2bCzzOqdY4jSyhxN2qnKrnBuxRXhCHQRsW
+      zOizFg7/wO1YMWreBeHSZGh0B8oOjXag/XmKq/8i/Iqw95BoGomnkWQaSaeRbBrJp5H1NPJpGuFsBjNjvnzGgPmMCfMZI+bvz/gHNGAuxUZdL9M8WbOY53GaRCyK8pEj
+      Vr0lhuDx5UUKNzbJYL2zWbamUtIKebNKuC/+uU+yUfKvP8shEQiHli5v7g/x4zVupcbS8vAE1dk/fZLNariyMPgLFrpEDg==
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {BA51AC95-F246-4F75-8D26-EFEB8DE230A1}
+    WAK 0
+  >
+>
+<TRACK
+  NAME Ride
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {DEDA52E2-B802-4A33-BC60-F834CB14C73F}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 93 124 655 403
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADFAQAAAQAAAAAAEAA=
+      Q0VHUNUEAAB4nI2UTW/bMAyG7wP2HwTdm0iOHWdAvCJri8GHYEPTngdaVjNh+khtyej+/RglTjyghZ2Lw5ePSOoFqPXtm9Gkk02rnC0onzFKbr9+/rTeNAp20MlBbpWu
+      KDk0rg7Cl/coMJ5SZAn+1jvpvbL7lrwG0Mr/xTQlrW8kGJQLukgoMfC2i8pGaye23wqacZS35X35I/itq2U8BcE7Ax6b7rTzBWVDSctO6oIqi7WDkdZTolUnT4eRbEVB
+      k/gFDahwckPkcaZZK/RZvsNjsinoErm9dhXop2DjlCjMLzfC5kTVUbRgsPyjqiWpQktJBfZPiakkYzkdWMQYwuI3WHsc8gYvc3AavVimlPhrj0P1qwG7l2fEY9DGhBn8
+      dcKj/5dLcWxkgo/CecQ45haU7cfsQIeTh/N3EX5B2EdIMo4sxpF0HMnGkeU4ko8jq3HkyzjC2QRmgr98gsF8gsN8gsX8Y49/QgPm3Gww9SzL0xVb8HyRpQlLknywD/Pj
+      QvTBw8uLFH64Iv3inVZlYyolrZDXVYmvxX+vyXJQ/Ptz2RcC4XGhy+vux/jhErdSY2tZP0F12p9jkfW8f7Aw+Aco+UNx
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {D19309CC-3BD7-4BC5-BCC9-51452B435542}
+    WAK 0
+  >
+>
+<TRACK
+  NAME Crash
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {72B3A9FC-A5D8-4CE4-B0E3-D89BE05E8BD9}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 125 156 655 403
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADGAQAAAQAAAAAAEAA=
+      Q0VHUNYEAAB4nI2UTW+jMBCG7yvtf7B8b2ITPlIpbJV+aMUh6kppz6vBcVOrtslig7r/voMTEiq1Ai4wrx/PjAe9Xt28G01aWTtV2ZzyGaPk5tfPH6t1rWALrRysLeMl
+      JYe62jXCF/coMB5TZAk+q630Xtm9I/8a0Mr/x2VKnK8lGJRzuogoMfC+Dcpa60psbnOacJQ3xX3x2PhNtZNhFzS+MuCx6FZXPqdsKGnZSp1TZTF3Y6T1lGjVyuNmJJ3A
+      HNfdGzSgwskVkV1PMyf0Sb7DbbLOaYr8Xlcl6KfGhi5RmJ9PhMWJ2gXRgsH0dzW4V1I2jpIS7FuBa1HCMjqYEWNIi1ewtuvyCk9zqDQOI40p8Zcih/JvDXYvT4jHwIUF
+      M/ishMcfcDlVilrjg3DqMfS5AWX7PlvQzXGI8y8RfkbYd0g0jizGkXgcScaRdBzJxpHlOHI9jnA2gZkwXz5hwHzChPmEEfPvZ/wHajCnYoOuZ0kWL9mCZ4skjlgUZQND
+      zDtH9MHDy4sUfuiR3nlHr6xNqaQV8mKVcF18uk7SQfLfz0WfCIRHRxcX84f44Rw7qbG03D1BefRPl2Q1728sDD4ANh9D7Q==
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {A9D4A6AF-A9E4-4C81-A546-0A8E86AC5F4B}
+    WAK 0
+  >
+>
+<TRACK
+  NAME Toms
+  PEAKCOL 0
+  BEAT -1
+  AUTOMODE 0
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  ISBUS 0 0
+  BUSCOMP 0 0
+  SHOWINMIX 1 0.6667 0.5 0 0.5 -1 -1 -1
+  FREEMODE 0
+  REC 0 0 0 7 0 0 0
+  VU 2
+  TRACKHEIGHT 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {1D84CD2C-560A-4FD3-A0CB-7DED4672D148}
+  PERF 0
+  AUXRECV 2 0 1 0 0 0 0 -1 0 -1 0 -1 ''
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    WNDRECT 125 156 655 403
+    SHOW 0
+    LASTSEL 1
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VSTi: sforzando (Plogue Art et Technologie, Inc)" "sforzando VST_x64.dll" 0 "" 1347176273
+      UUdMUO5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAADwAQAAAQAAAAAAEAA=
+      Q0VHUKsFAAB4nJ2UTY+bMBCG75X6HyzfN7HB5kMKXaXdVcUhaqVkz5Uh3hTV2CkYtP33HUw+vFIRqL6Qef2MZ/xGns3jW61QL5u2MjrDdEUwevz08cNm21RiL3rp7SUs
+      wejcmGNX2vwJBEIZBhbB2uyltZU+teh3J1Rl/8A2Rq1tpKhBznAYYFSLt71TtkqZcvc5w5yCvMuf8m+d3ZmjdFmis6YWForulbEZJr6kZC9VhisNZ3e11BYjVfVyTAay
+      LaEWH75CCVAoekBy6GnVluoif4E02WQ4Av6kTCHUodOuSxDWtxtBcVQdnahFDccfTI2KrsWoEPpXDjsBJzH2HCIE2PKn0Hro8QHucjYKrIgYRvZe4lz8aIQ+yQtiIWjd
+      Ru39NKUF++93GvzrrBMuHboud6LS1y57obrRwvU/EXpDyBQSzCPhPMLmET6PRPNIPI8k80g6j1CygFngL11gMF3gMF1gMZ32+LtoRD3+D17TK8qJWzyNCIsYn84K/yuL
+      +1mMpcPiSRBHMUuns+J3tcZilKYBSYPpLBr6F+MxS0hI45CzgARB7D3z9fDOr8Hz66ssrf/yr/NknADbuqikLuV9BLgh+G5IRt7hX1/y60GitDCn8vtIc/HzLW6lgtLy
+      eBDF7Qlv1tcxDMFfOrRy9Q==
+      AAAQAAAA
+    >
+    FLOATPOS 695 312 791 560
+    FXID {DDF31E27-79E7-4928-803F-4353AAA537D4}
+    WAK 0
+    BYPASS 0 0 0
+    <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729
+      cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAoAAAAAEAAAAAABAA
+      IQAAAAQAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+      8D8AAAAAAAAAQAEBAAAAAQAAAExa3IJVp5NAwNNKMv/W+j8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAA==
+      AAAQAAAA
+    >
+    FLOATPOS 157 188 544 415
+    FXID {1E77CE4E-5F6C-4B86-B180-197EB4840519}
+    WAK 0
+  >
+>

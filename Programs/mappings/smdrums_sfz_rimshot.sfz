@@ -1,0 +1,285 @@
+
+<group>
+key=$RIM2KEY
+
+hirand=0.250
+
+pan=-100
+amp_veltrack=80
+amplitude_oncc$RIMV=100
+pan_oncc$RIMP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\01_RimShot_Stereo_RR1.wav
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\02_RimShot_Stereo_RR1.wav
+lovel=14
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\03_RimShot_Stereo_RR1.wav
+lovel=27
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\04_RimShot_Stereo_RR1.wav
+lovel=40
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\05_RimShot_Stereo_RR1.wav
+lovel=53
+hivel=64
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\06_RimShot_Stereo_RR1.wav
+lovel=65
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\07_RimShot_Stereo_RR1.wav
+lovel=77
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\08_RimShot_Stereo_RR1.wav
+lovel=90
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\09_RimShot_Stereo_RR1.wav
+lovel=103
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR1\10_RimShot_Stereo_RR1.wav
+lovel=116
+
+//========================
+<group>
+key=$RIM2KEY
+
+lorand=0.250
+hirand=0.500
+
+pan=-100
+amp_veltrack=80
+amplitude_oncc$RIMV=100
+pan_oncc$RIMP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\01_RimShot_Stereo_RR2.wav
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\02_RimShot_Stereo_RR2.wav
+lovel=14
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\03_RimShot_Stereo_RR2.wav
+lovel=27
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\04_RimShot_Stereo_RR2.wav
+lovel=40
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\05_RimShot_Stereo_RR2.wav
+lovel=53
+hivel=64
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\06_RimShot_Stereo_RR2.wav
+lovel=65
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\07_RimShot_Stereo_RR2.wav
+lovel=77
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\08_RimShot_Stereo_RR2.wav
+lovel=90
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\09_RimShot_Stereo_RR2.wav
+lovel=103
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR2\10_RimShot_Stereo_RR2.wav
+lovel=116
+
+//========================
+<group>
+key=$RIM2KEY
+
+lorand=0.500
+hirand=0.750
+
+pan=-100
+amp_veltrack=80
+amplitude_oncc$RIMV=100
+pan_oncc$RIMP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\01_RimShot_Stereo_RR3.wav
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\02_RimShot_Stereo_RR3.wav
+lovel=14
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\03_RimShot_Stereo_RR3.wav
+lovel=27
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\04_RimShot_Stereo_RR3.wav
+lovel=40
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\05_RimShot_Stereo_RR3.wav
+lovel=53
+hivel=64
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\06_RimShot_Stereo_RR3.wav
+lovel=65
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\07_RimShot_Stereo_RR3.wav
+lovel=77
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\08_RimShot_Stereo_RR3.wav
+lovel=90
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\09_RimShot_Stereo_RR3.wav
+lovel=103
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR3\10_RimShot_Stereo_RR3.wav
+lovel=116
+
+//========================
+<group>
+key=$RIM2KEY
+
+lorand=0.750
+
+pan=-100
+amp_veltrack=80
+amplitude_oncc$RIMV=100
+pan_oncc$RIMP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\01_RimShot_Stereo_RR4.wav
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\02_RimShot_Stereo_RR4.wav
+lovel=14
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\03_RimShot_Stereo_RR4.wav
+lovel=27
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\04_RimShot_Stereo_RR4.wav
+lovel=40
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\05_RimShot_Stereo_RR4.wav
+lovel=53
+hivel=64
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\06_RimShot_Stereo_RR4.wav
+lovel=65
+hivel=76
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\07_RimShot_Stereo_RR4.wav
+lovel=77
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\08_RimShot_Stereo_RR4.wav
+lovel=90
+hivel=102
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\09_RimShot_Stereo_RR4.wav
+lovel=103
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\RimShot_Stereo\RR4\10_RimShot_Stereo_RR4.wav
+lovel=116

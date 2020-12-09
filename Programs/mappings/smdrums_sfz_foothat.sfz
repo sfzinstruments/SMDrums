@@ -1,0 +1,1429 @@
+
+<group>
+key=$HHFOOTKEY
+
+hirand=0.125
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\01_Hat_Foot_RR1.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\02_Hat_Foot_RR1.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\03_Hat_Foot_RR1.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\04_Hat_Foot_RR1.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\05_Hat_Foot_RR1.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\06_Hat_Foot_RR1.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\07_Hat_Foot_RR1.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\08_Hat_Foot_RR1.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\09_Hat_Foot_RR1.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\10_Hat_Foot_RR1.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\11_Hat_Foot_RR1.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\12_Hat_Foot_RR1.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\13_Hat_Foot_RR1.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\14_Hat_Foot_RR1.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\15_Hat_Foot_RR1.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\16_Hat_Foot_RR1.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\17_Hat_Foot_RR1.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\18_Hat_Foot_RR1.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\19_Hat_Foot_RR1.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\20_Hat_Foot_RR1.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\21_Hat_Foot_RR1.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\22_Hat_Foot_RR1.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\23_Hat_Foot_RR1.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\24_Hat_Foot_RR1.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\25_Hat_Foot_RR1.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\26_Hat_Foot_RR1.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\27_Hat_Foot_RR1.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\28_Hat_Foot_RR1.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\29_Hat_Foot_RR1.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\30_Hat_Foot_RR1.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR1\31_Hat_Foot_RR1.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.125
+hirand=0.250
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\01_Hat_Foot_RR2.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\02_Hat_Foot_RR2.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\03_Hat_Foot_RR2.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\04_Hat_Foot_RR2.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\05_Hat_Foot_RR2.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\06_Hat_Foot_RR2.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\07_Hat_Foot_RR2.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\08_Hat_Foot_RR2.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\09_Hat_Foot_RR2.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\10_Hat_Foot_RR2.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\11_Hat_Foot_RR2.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\12_Hat_Foot_RR2.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\13_Hat_Foot_RR2.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\14_Hat_Foot_RR2.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\15_Hat_Foot_RR2.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\16_Hat_Foot_RR2.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\17_Hat_Foot_RR2.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\18_Hat_Foot_RR2.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\19_Hat_Foot_RR2.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\20_Hat_Foot_RR2.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\21_Hat_Foot_RR2.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\22_Hat_Foot_RR2.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\23_Hat_Foot_RR2.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\24_Hat_Foot_RR2.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\25_Hat_Foot_RR2.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\26_Hat_Foot_RR2.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\27_Hat_Foot_RR2.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\28_Hat_Foot_RR2.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\29_Hat_Foot_RR2.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\30_Hat_Foot_RR2.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR2\31_Hat_Foot_RR2.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.250
+hirand=0.375
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\01_Hat_Foot_RR3.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\02_Hat_Foot_RR3.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\03_Hat_Foot_RR3.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\04_Hat_Foot_RR3.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\05_Hat_Foot_RR3.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\06_Hat_Foot_RR3.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\07_Hat_Foot_RR3.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\08_Hat_Foot_RR3.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\09_Hat_Foot_RR3.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\10_Hat_Foot_RR3.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\11_Hat_Foot_RR3.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\12_Hat_Foot_RR3.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\13_Hat_Foot_RR3.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\14_Hat_Foot_RR3.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\15_Hat_Foot_RR3.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\16_Hat_Foot_RR3.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\17_Hat_Foot_RR3.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\18_Hat_Foot_RR3.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\19_Hat_Foot_RR3.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\20_Hat_Foot_RR3.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\21_Hat_Foot_RR3.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\22_Hat_Foot_RR3.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\23_Hat_Foot_RR3.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\24_Hat_Foot_RR3.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\25_Hat_Foot_RR3.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\26_Hat_Foot_RR3.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\27_Hat_Foot_RR3.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\28_Hat_Foot_RR3.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\29_Hat_Foot_RR3.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\30_Hat_Foot_RR3.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR3\31_Hat_Foot_RR3.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.375
+hirand=0.500
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\01_Hat_Foot_RR4.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\02_Hat_Foot_RR4.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\03_Hat_Foot_RR4.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\04_Hat_Foot_RR4.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\05_Hat_Foot_RR4.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\06_Hat_Foot_RR4.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\07_Hat_Foot_RR4.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\08_Hat_Foot_RR4.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\09_Hat_Foot_RR4.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\10_Hat_Foot_RR4.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\11_Hat_Foot_RR4.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\12_Hat_Foot_RR4.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\13_Hat_Foot_RR4.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\14_Hat_Foot_RR4.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\15_Hat_Foot_RR4.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\16_Hat_Foot_RR4.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\17_Hat_Foot_RR4.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\18_Hat_Foot_RR4.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\19_Hat_Foot_RR4.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\20_Hat_Foot_RR4.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\21_Hat_Foot_RR4.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\22_Hat_Foot_RR4.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\23_Hat_Foot_RR4.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\24_Hat_Foot_RR4.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\25_Hat_Foot_RR4.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\26_Hat_Foot_RR4.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\27_Hat_Foot_RR4.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\28_Hat_Foot_RR4.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\29_Hat_Foot_RR4.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\30_Hat_Foot_RR4.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR4\31_Hat_Foot_RR4.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.500
+hirand=0.625
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\01_Hat_Foot_RR5.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\02_Hat_Foot_RR5.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\03_Hat_Foot_RR5.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\04_Hat_Foot_RR5.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\05_Hat_Foot_RR5.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\06_Hat_Foot_RR5.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\07_Hat_Foot_RR5.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\08_Hat_Foot_RR5.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\09_Hat_Foot_RR5.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\10_Hat_Foot_RR5.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\11_Hat_Foot_RR5.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\12_Hat_Foot_RR5.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\13_Hat_Foot_RR5.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\14_Hat_Foot_RR5.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\15_Hat_Foot_RR5.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\16_Hat_Foot_RR5.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\17_Hat_Foot_RR5.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\18_Hat_Foot_RR5.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\19_Hat_Foot_RR5.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\20_Hat_Foot_RR5.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\21_Hat_Foot_RR5.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\22_Hat_Foot_RR5.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\23_Hat_Foot_RR5.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\24_Hat_Foot_RR5.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\25_Hat_Foot_RR5.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\26_Hat_Foot_RR5.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\27_Hat_Foot_RR5.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\28_Hat_Foot_RR5.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\29_Hat_Foot_RR5.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\30_Hat_Foot_RR5.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR5\31_Hat_Foot_RR5.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.625
+hirand=0.750
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\01_Hat_Foot_RR6.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\02_Hat_Foot_RR6.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\03_Hat_Foot_RR6.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\04_Hat_Foot_RR6.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\05_Hat_Foot_RR6.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\06_Hat_Foot_RR6.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\07_Hat_Foot_RR6.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\08_Hat_Foot_RR6.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\09_Hat_Foot_RR6.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\10_Hat_Foot_RR6.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\11_Hat_Foot_RR6.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\12_Hat_Foot_RR6.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\13_Hat_Foot_RR6.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\14_Hat_Foot_RR6.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\15_Hat_Foot_RR6.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\16_Hat_Foot_RR6.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\17_Hat_Foot_RR6.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\18_Hat_Foot_RR6.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\19_Hat_Foot_RR6.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\20_Hat_Foot_RR6.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\21_Hat_Foot_RR6.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\22_Hat_Foot_RR6.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\23_Hat_Foot_RR6.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\24_Hat_Foot_RR6.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\25_Hat_Foot_RR6.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\26_Hat_Foot_RR6.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\27_Hat_Foot_RR6.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\28_Hat_Foot_RR6.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\29_Hat_Foot_RR6.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\30_Hat_Foot_RR6.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR6\31_Hat_Foot_RR6.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.750
+hirand=0.875
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\01_Hat_Foot_RR7.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\02_Hat_Foot_RR7.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\03_Hat_Foot_RR7.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\04_Hat_Foot_RR7.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\05_Hat_Foot_RR7.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\06_Hat_Foot_RR7.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\07_Hat_Foot_RR7.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\08_Hat_Foot_RR7.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\09_Hat_Foot_RR7.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\10_Hat_Foot_RR7.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\11_Hat_Foot_RR7.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\12_Hat_Foot_RR7.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\13_Hat_Foot_RR7.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\14_Hat_Foot_RR7.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\15_Hat_Foot_RR7.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\16_Hat_Foot_RR7.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\17_Hat_Foot_RR7.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\18_Hat_Foot_RR7.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\19_Hat_Foot_RR7.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\20_Hat_Foot_RR7.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\21_Hat_Foot_RR7.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\22_Hat_Foot_RR7.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\23_Hat_Foot_RR7.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\24_Hat_Foot_RR7.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\25_Hat_Foot_RR7.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\26_Hat_Foot_RR7.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\27_Hat_Foot_RR7.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\28_Hat_Foot_RR7.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\29_Hat_Foot_RR7.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\30_Hat_Foot_RR7.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR7\31_Hat_Foot_RR7.wav
+lovel=124
+
+//========================
+<group>
+key=$HHFOOTKEY
+
+lorand=0.875
+group=3
+off_by=$HHGRP
+
+amp_veltrack=0
+amplitude_oncc$HATFV=100
+pan=-100
+pan_oncc$HATFP=200
+tune=-1200
+tune_oncc$HATT=4800
+tune_curvecc$HATT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$HATD=-0.1
+ampeg_hold_curvecc$HATD=8
+ampeg_decay=1
+ampeg_decay_oncc$HATD=-0.95
+ampeg_decay_curvecc$HATD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$HATD=-100
+ampeg_sustain_curvecc$HATD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\01_Hat_Foot_RR8.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\02_Hat_Foot_RR8.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\03_Hat_Foot_RR8.wav
+lovel=9
+hivel=12
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\04_Hat_Foot_RR8.wav
+lovel=13
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\05_Hat_Foot_RR8.wav
+lovel=17
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\06_Hat_Foot_RR8.wav
+lovel=21
+hivel=24
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\07_Hat_Foot_RR8.wav
+lovel=25
+hivel=28
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\08_Hat_Foot_RR8.wav
+lovel=29
+hivel=33
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\09_Hat_Foot_RR8.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\10_Hat_Foot_RR8.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\11_Hat_Foot_RR8.wav
+lovel=42
+hivel=45
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\12_Hat_Foot_RR8.wav
+lovel=46
+hivel=49
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\13_Hat_Foot_RR8.wav
+lovel=50
+hivel=53
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\14_Hat_Foot_RR8.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\15_Hat_Foot_RR8.wav
+lovel=58
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\16_Hat_Foot_RR8.wav
+lovel=62
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\17_Hat_Foot_RR8.wav
+lovel=66
+hivel=70
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\18_Hat_Foot_RR8.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\19_Hat_Foot_RR8.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\20_Hat_Foot_RR8.wav
+lovel=79
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\21_Hat_Foot_RR8.wav
+lovel=83
+hivel=86
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\22_Hat_Foot_RR8.wav
+lovel=87
+hivel=90
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\23_Hat_Foot_RR8.wav
+lovel=91
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\24_Hat_Foot_RR8.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\25_Hat_Foot_RR8.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\26_Hat_Foot_RR8.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\27_Hat_Foot_RR8.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\28_Hat_Foot_RR8.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\29_Hat_Foot_RR8.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\30_Hat_Foot_RR8.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Hi-Hat (Samples)\05 Hat, Foot\RR8\31_Hat_Foot_RR8.wav
+lovel=124

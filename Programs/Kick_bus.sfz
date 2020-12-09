@@ -1,0 +1,26 @@
+//SM Drums
+//Kick drum bus mapping
+
+//Change this if you want to remap the kick to some other note
+
+#define $KICKKEY 36
+
+#define $KICKV 70
+#define $KICKT 20
+#define $KICKD 21
+
+<control>
+label_cc$KICKV=Kick
+label_cc$KICKT=Kick Tune
+label_cc$KICKD=Kick Decay
+
+set_cc$KICKV=127
+set_cc$KICKT=63
+set_cc$KICKD=0
+
+
+<global>
+loop_mode=one_shot
+
+#include "mappings/smdrums_sfz_kick.sfz"
+#include "mappings/smdrums_curves.sfz"

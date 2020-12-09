@@ -1,0 +1,1333 @@
+
+<group>
+key=$SIDESTKEY
+
+hirand=0.125
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\01_SideStick_Stereo_RR1.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\02_SideStick_Stereo_RR1.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\03_SideStick_Stereo_RR1.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\04_SideStick_Stereo_RR1.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\05_SideStick_Stereo_RR1.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\06_SideStick_Stereo_RR1.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\07_SideStick_Stereo_RR1.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\08_SideStick_Stereo_RR1.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\09_SideStick_Stereo_RR1.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\10_SideStick_Stereo_RR1.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\11_SideStick_Stereo_RR1.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\12_SideStick_Stereo_RR1.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\13_SideStick_Stereo_RR1.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\14_SideStick_Stereo_RR1.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\15_SideStick_Stereo_RR1.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\16_SideStick_Stereo_RR1.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\17_SideStick_Stereo_RR1.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\18_SideStick_Stereo_RR1.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\19_SideStick_Stereo_RR1.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\20_SideStick_Stereo_RR1.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\21_SideStick_Stereo_RR1.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\22_SideStick_Stereo_RR1.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\23_SideStick_Stereo_RR1.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\24_SideStick_Stereo_RR1.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\25_SideStick_Stereo_RR1.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\26_SideStick_Stereo_RR1.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\27_SideStick_Stereo_RR1.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\28_SideStick_Stereo_RR1.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR1\29_SideStick_Stereo_RR1.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.125
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\01_SideStick_Stereo_RR2.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\02_SideStick_Stereo_RR2.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\03_SideStick_Stereo_RR2.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\04_SideStick_Stereo_RR2.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\05_SideStick_Stereo_RR2.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\06_SideStick_Stereo_RR2.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\07_SideStick_Stereo_RR2.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\08_SideStick_Stereo_RR2.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\09_SideStick_Stereo_RR2.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\10_SideStick_Stereo_RR2.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\11_SideStick_Stereo_RR2.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\12_SideStick_Stereo_RR2.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\13_SideStick_Stereo_RR2.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\14_SideStick_Stereo_RR2.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\15_SideStick_Stereo_RR2.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\16_SideStick_Stereo_RR2.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\17_SideStick_Stereo_RR2.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\18_SideStick_Stereo_RR2.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\19_SideStick_Stereo_RR2.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\20_SideStick_Stereo_RR2.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\21_SideStick_Stereo_RR2.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\22_SideStick_Stereo_RR2.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\23_SideStick_Stereo_RR2.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\24_SideStick_Stereo_RR2.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\25_SideStick_Stereo_RR2.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\26_SideStick_Stereo_RR2.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\27_SideStick_Stereo_RR2.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\28_SideStick_Stereo_RR2.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR2\29_SideStick_Stereo_RR2.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.250
+hirand=0.375
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\01_SideStick_Stereo_RR3.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\02_SideStick_Stereo_RR3.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\03_SideStick_Stereo_RR3.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\04_SideStick_Stereo_RR3.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\05_SideStick_Stereo_RR3.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\06_SideStick_Stereo_RR3.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\07_SideStick_Stereo_RR3.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\08_SideStick_Stereo_RR3.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\09_SideStick_Stereo_RR3.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\10_SideStick_Stereo_RR3.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\11_SideStick_Stereo_RR3.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\12_SideStick_Stereo_RR3.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\13_SideStick_Stereo_RR3.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\14_SideStick_Stereo_RR3.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\15_SideStick_Stereo_RR3.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\16_SideStick_Stereo_RR3.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\17_SideStick_Stereo_RR3.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\18_SideStick_Stereo_RR3.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\19_SideStick_Stereo_RR3.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\20_SideStick_Stereo_RR3.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\21_SideStick_Stereo_RR3.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\22_SideStick_Stereo_RR3.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\23_SideStick_Stereo_RR3.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\24_SideStick_Stereo_RR3.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\25_SideStick_Stereo_RR3.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\26_SideStick_Stereo_RR3.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\27_SideStick_Stereo_RR3.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\28_SideStick_Stereo_RR3.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR3\29_SideStick_Stereo_RR3.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.375
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\01_SideStick_Stereo_RR4.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\02_SideStick_Stereo_RR4.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\03_SideStick_Stereo_RR4.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\04_SideStick_Stereo_RR4.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\05_SideStick_Stereo_RR4.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\06_SideStick_Stereo_RR4.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\07_SideStick_Stereo_RR4.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\08_SideStick_Stereo_RR4.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\09_SideStick_Stereo_RR4.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\10_SideStick_Stereo_RR4.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\11_SideStick_Stereo_RR4.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\12_SideStick_Stereo_RR4.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\13_SideStick_Stereo_RR4.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\14_SideStick_Stereo_RR4.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\15_SideStick_Stereo_RR4.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\16_SideStick_Stereo_RR4.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\17_SideStick_Stereo_RR4.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\18_SideStick_Stereo_RR4.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\19_SideStick_Stereo_RR4.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\20_SideStick_Stereo_RR4.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\21_SideStick_Stereo_RR4.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\22_SideStick_Stereo_RR4.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\23_SideStick_Stereo_RR4.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\24_SideStick_Stereo_RR4.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\25_SideStick_Stereo_RR4.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\26_SideStick_Stereo_RR4.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\27_SideStick_Stereo_RR4.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\28_SideStick_Stereo_RR4.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR4\29_SideStick_Stereo_RR4.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.500
+hirand=0.625
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\01_SideStick_Stereo_RR5.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\02_SideStick_Stereo_RR5.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\03_SideStick_Stereo_RR5.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\04_SideStick_Stereo_RR5.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\05_SideStick_Stereo_RR5.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\06_SideStick_Stereo_RR5.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\07_SideStick_Stereo_RR5.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\08_SideStick_Stereo_RR5.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\09_SideStick_Stereo_RR5.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\10_SideStick_Stereo_RR5.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\11_SideStick_Stereo_RR5.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\12_SideStick_Stereo_RR5.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\13_SideStick_Stereo_RR5.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\14_SideStick_Stereo_RR5.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\15_SideStick_Stereo_RR5.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\16_SideStick_Stereo_RR5.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\17_SideStick_Stereo_RR5.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\18_SideStick_Stereo_RR5.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\19_SideStick_Stereo_RR5.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\20_SideStick_Stereo_RR5.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\21_SideStick_Stereo_RR5.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\22_SideStick_Stereo_RR5.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\23_SideStick_Stereo_RR5.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\24_SideStick_Stereo_RR5.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\25_SideStick_Stereo_RR5.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\26_SideStick_Stereo_RR5.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\27_SideStick_Stereo_RR5.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\28_SideStick_Stereo_RR5.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR5\29_SideStick_Stereo_RR5.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.625
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\01_SideStick_Stereo_RR6.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\02_SideStick_Stereo_RR6.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\03_SideStick_Stereo_RR6.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\04_SideStick_Stereo_RR6.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\05_SideStick_Stereo_RR6.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\06_SideStick_Stereo_RR6.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\07_SideStick_Stereo_RR6.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\08_SideStick_Stereo_RR6.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\09_SideStick_Stereo_RR6.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\10_SideStick_Stereo_RR6.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\11_SideStick_Stereo_RR6.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\12_SideStick_Stereo_RR6.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\13_SideStick_Stereo_RR6.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\14_SideStick_Stereo_RR6.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\15_SideStick_Stereo_RR6.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\16_SideStick_Stereo_RR6.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\17_SideStick_Stereo_RR6.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\18_SideStick_Stereo_RR6.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\19_SideStick_Stereo_RR6.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\20_SideStick_Stereo_RR6.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\21_SideStick_Stereo_RR6.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\22_SideStick_Stereo_RR6.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\23_SideStick_Stereo_RR6.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\24_SideStick_Stereo_RR6.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\25_SideStick_Stereo_RR6.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\26_SideStick_Stereo_RR6.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\27_SideStick_Stereo_RR6.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\28_SideStick_Stereo_RR6.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR6\29_SideStick_Stereo_RR6.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.750
+hirand=0.875
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\01_SideStick_Stereo_RR7.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\02_SideStick_Stereo_RR7.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\03_SideStick_Stereo_RR7.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\04_SideStick_Stereo_RR7.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\05_SideStick_Stereo_RR7.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\06_SideStick_Stereo_RR7.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\07_SideStick_Stereo_RR7.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\08_SideStick_Stereo_RR7.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\09_SideStick_Stereo_RR7.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\10_SideStick_Stereo_RR7.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\11_SideStick_Stereo_RR7.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\12_SideStick_Stereo_RR7.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\13_SideStick_Stereo_RR7.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\14_SideStick_Stereo_RR7.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\15_SideStick_Stereo_RR7.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\16_SideStick_Stereo_RR7.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\17_SideStick_Stereo_RR7.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\18_SideStick_Stereo_RR7.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\19_SideStick_Stereo_RR7.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\20_SideStick_Stereo_RR7.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\21_SideStick_Stereo_RR7.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\22_SideStick_Stereo_RR7.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\23_SideStick_Stereo_RR7.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\24_SideStick_Stereo_RR7.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\25_SideStick_Stereo_RR7.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\26_SideStick_Stereo_RR7.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\27_SideStick_Stereo_RR7.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\28_SideStick_Stereo_RR7.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR7\29_SideStick_Stereo_RR7.wav
+lovel=124
+
+//========================
+<group>
+key=$SIDESTKEY
+
+lorand=0.875
+
+amp_veltrack=0
+amplitude_oncc$SIDEV=100
+pan=-100
+pan_oncc$SIDEP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\01_SideStick_Stereo_RR8.wav
+hivel=4
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\02_SideStick_Stereo_RR8.wav
+lovel=5
+hivel=8
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\03_SideStick_Stereo_RR8.wav
+lovel=9
+hivel=13
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\04_SideStick_Stereo_RR8.wav
+lovel=14
+hivel=17
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\05_SideStick_Stereo_RR8.wav
+lovel=18
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\06_SideStick_Stereo_RR8.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\07_SideStick_Stereo_RR8.wav
+lovel=27
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\08_SideStick_Stereo_RR8.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\09_SideStick_Stereo_RR8.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\10_SideStick_Stereo_RR8.wav
+lovel=40
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\11_SideStick_Stereo_RR8.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\12_SideStick_Stereo_RR8.wav
+lovel=49
+hivel=53
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\13_SideStick_Stereo_RR8.wav
+lovel=54
+hivel=57
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\14_SideStick_Stereo_RR8.wav
+lovel=58
+hivel=62
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\15_SideStick_Stereo_RR8.wav
+lovel=63
+hivel=66
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\16_SideStick_Stereo_RR8.wav
+lovel=67
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\17_SideStick_Stereo_RR8.wav
+lovel=71
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\18_SideStick_Stereo_RR8.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\19_SideStick_Stereo_RR8.wav
+lovel=80
+hivel=84
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\20_SideStick_Stereo_RR8.wav
+lovel=85
+hivel=88
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\21_SideStick_Stereo_RR8.wav
+lovel=89
+hivel=93
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\22_SideStick_Stereo_RR8.wav
+lovel=94
+hivel=97
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\23_SideStick_Stereo_RR8.wav
+lovel=98
+hivel=101
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\24_SideStick_Stereo_RR8.wav
+lovel=102
+hivel=105
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\25_SideStick_Stereo_RR8.wav
+lovel=106
+hivel=109
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\26_SideStick_Stereo_RR8.wav
+lovel=110
+hivel=114
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\27_SideStick_Stereo_RR8.wav
+lovel=115
+hivel=118
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\28_SideStick_Stereo_RR8.wav
+lovel=119
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\SideStick_Stereo\RR8\29_SideStick_Stereo_RR8.wav
+lovel=124

@@ -1,0 +1,585 @@
+
+<group>
+key=$RI17EKEY
+
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$RI17EV=100
+pan=-100
+pan_oncc$RI17P=200
+tune=-1200
+tune_oncc$RI17T=4800
+tune_curvecc$RI17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI17D=-0.4
+ampeg_hold_curvecc$RI17D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI17D=-1.9
+ampeg_decay_curvecc$RI17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI17D=-100
+ampeg_sustain_curvecc$RI17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\01_Ride_17in_L_Cnt_Tip_RR1.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\02_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\03_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\04_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\05_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\06_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=26
+hivel=31
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\07_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=32
+hivel=36
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\08_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=37
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\09_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\10_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\11_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\12_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\13_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=62
+hivel=66
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\14_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=67
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\15_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\16_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\17_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\18_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\19_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\20_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\21_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\22_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\23_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\24_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR1\25_Ride_17in_L_Cnt_Tip_RR1.wav
+lovel=123
+
+//========================
+<group>
+key=$RI17EKEY
+
+lorand=0.250
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$RI17EV=100
+pan=-100
+pan_oncc$RI17P=200
+tune=-1200
+tune_oncc$RI17T=4800
+tune_curvecc$RI17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI17D=-0.4
+ampeg_hold_curvecc$RI17D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI17D=-1.9
+ampeg_decay_curvecc$RI17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI17D=-100
+ampeg_sustain_curvecc$RI17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\01_Ride_17in_L_Cnt_Tip_RR2.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\02_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\03_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\04_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\05_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\06_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=26
+hivel=31
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\07_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=32
+hivel=36
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\08_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=37
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\09_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\10_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\11_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\12_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\13_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=62
+hivel=66
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\14_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=67
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\15_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\16_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\17_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\18_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\19_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\20_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\21_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\22_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\23_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\24_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR2\25_Ride_17in_L_Cnt_Tip_RR2.wav
+lovel=123
+
+//========================
+<group>
+key=$RI17EKEY
+
+lorand=0.500
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$RI17EV=100
+pan=-100
+pan_oncc$RI17P=200
+tune=-1200
+tune_oncc$RI17T=4800
+tune_curvecc$RI17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI17D=-0.4
+ampeg_hold_curvecc$RI17D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI17D=-1.9
+ampeg_decay_curvecc$RI17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI17D=-100
+ampeg_sustain_curvecc$RI17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\01_Ride_17in_L_Cnt_Tip_RR3.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\02_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\03_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\04_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\05_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\06_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=26
+hivel=31
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\07_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=32
+hivel=36
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\08_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=37
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\09_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\10_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\11_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\12_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\13_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=62
+hivel=66
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\14_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=67
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\15_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\16_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\17_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\18_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\19_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\20_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\21_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\22_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\23_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\24_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR3\25_Ride_17in_L_Cnt_Tip_RR3.wav
+lovel=123
+
+//========================
+<group>
+key=$RI17EKEY
+
+lorand=0.750
+
+amp_veltrack=0
+amplitude_oncc$RI17EV=100
+pan=-100
+pan_oncc$RI17P=200
+tune=-1200
+tune_oncc$RI17T=4800
+tune_curvecc$RI17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$RI17D=-0.4
+ampeg_hold_curvecc$RI17D=8
+ampeg_decay=2
+ampeg_decay_oncc$RI17D=-1.9
+ampeg_decay_curvecc$RI17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$RI17D=-100
+ampeg_sustain_curvecc$RI17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\01_Ride_17in_L_Cnt_Tip_RR4.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\02_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=6
+hivel=10
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\03_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=11
+hivel=15
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\04_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=16
+hivel=20
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\05_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=21
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\06_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=26
+hivel=31
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\07_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=32
+hivel=36
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\08_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=37
+hivel=41
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\09_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=42
+hivel=46
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\10_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=47
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\11_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=52
+hivel=56
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\12_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=57
+hivel=61
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\13_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=62
+hivel=66
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\14_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=67
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\15_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\16_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\17_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=83
+hivel=87
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\18_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=88
+hivel=92
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\19_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=93
+hivel=97
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\20_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=98
+hivel=102
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\21_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=103
+hivel=107
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\22_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=108
+hivel=112
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\23_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=113
+hivel=117
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\24_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=118
+hivel=122
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Ride (Samples)\Ride 17 (Samples)\RR4\25_Ride_17in_L_Cnt_Tip_RR4.wav
+lovel=123

@@ -1,0 +1,55 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="drums_controls_tab_bus.png" transparent="0"  />
+	
+	<!-- Controls - Rides -->
+	
+	<StaticText x="279" y="19" w="100" h="20" text="17 IN RIDE" color_text="#FFFFFFFF" transparent="1"  />
+
+	<StaticText x="259" y="37" w="100" h="18" text="Edge" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="103" x="296" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="299" y="37" w="100" h="18" text="Bell" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="104" x="336" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="379" y="19" w="100" h="20" text="20 IN RIDE" color_text="#FFFFFFFF" transparent="1"  />
+
+	<StaticText x="359" y="37" w="100" h="18" text="Edge" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="106" x="396" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="399" y="37" w="100" h="18" text="Bell" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="107" x="436" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="279" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="105" x="312" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="279" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="16" x="312" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="279" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="17" x="312" y="280" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="108" x="412" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="18" x="412" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="19" x="412" y="280" image="Drum_knob.png" frames="128"  />
+
+
+
+</GUI>                                                                                                                                       

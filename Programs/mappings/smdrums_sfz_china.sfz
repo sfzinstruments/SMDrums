@@ -1,0 +1,185 @@
+
+<group>
+key=$CRCKEY
+
+hirand=0.250
+
+amp_veltrack=0
+amplitude_cc$CRCV=100
+pan=-100
+pan_oncc$CRCP=200
+tune=-1200
+tune_oncc$CRCT=4800
+tune_curvecc$CRCT=9
+ampeg_hold=0.4
+ampeg_hold_oncc$CRCD=-0.4
+ampeg_hold_curvecc$CRCD=8
+ampeg_decay=2
+ampeg_decay_oncc$CRCD=-1.9
+ampeg_decay_curvecc$CRCD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$CRCD=-100
+ampeg_sustain_curvecc$CRCD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR1\01_China_RR1.wav
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR1\02_China_RR1.wav
+lovel=26
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR1\03_China_RR1.wav
+lovel=52
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR1\04_China_RR1.wav
+lovel=77
+hivel=101
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR1\05_China_RR1.wav
+lovel=102
+
+//========================
+<group>
+key=$CRCKEY
+
+lorand=0.250
+hirand=0.500
+
+amp_veltrack=0
+amplitude_cc$CRCV=100
+pan=-100
+pan_oncc$CRCP=200
+tune=-1200
+tune_oncc$CRCT=4800
+tune_curvecc$CRCT=9
+ampeg_hold=0.4
+ampeg_hold_oncc$CRCD=-0.4
+ampeg_hold_curvecc$CRCD=8
+ampeg_decay=2
+ampeg_decay_oncc$CRCD=-1.9
+ampeg_decay_curvecc$CRCD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$CRCD=-100
+ampeg_sustain_curvecc$CRCD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR2\01_China_RR2.wav
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR2\02_China_RR2.wav
+lovel=26
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR2\03_China_RR2.wav
+lovel=52
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR2\04_China_RR2.wav
+lovel=77
+hivel=101
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR2\05_China_RR2.wav
+lovel=102
+
+//========================
+<group>
+key=$CRCKEY
+
+lorand=0.500
+hirand=0.750
+
+amp_veltrack=0
+amplitude_cc$CRCV=100
+pan=-100
+pan_oncc$CRCP=200
+tune=-1200
+tune_oncc$CRCT=4800
+tune_curvecc$CRCT=9
+ampeg_hold=0.4
+ampeg_hold_oncc$CRCD=-0.4
+ampeg_hold_curvecc$CRCD=8
+ampeg_decay=2
+ampeg_decay_oncc$CRCD=-1.9
+ampeg_decay_curvecc$CRCD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$CRCD=-100
+ampeg_sustain_curvecc$CRCD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR3\01_China_RR3.wav
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR3\02_China_RR3.wav
+lovel=26
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR3\03_China_RR3.wav
+lovel=52
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR3\04_China_RR3.wav
+lovel=77
+hivel=101
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR3\05_China_RR3.wav
+lovel=102
+
+//========================
+<group>
+key=$CRCKEY
+
+lorand=0.750
+
+amp_veltrack=0
+amplitude_cc$CRCV=100
+pan=-100
+pan_oncc$CRCP=200
+tune=-1200
+tune_oncc$CRCT=4800
+tune_curvecc$CRCT=9
+ampeg_hold=0.4
+ampeg_hold_oncc$CRCD=-0.4
+ampeg_hold_curvecc$CRCD=8
+ampeg_decay=2
+ampeg_decay_oncc$CRCD=-1.9
+ampeg_decay_curvecc$CRCD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$CRCD=-100
+ampeg_sustain_curvecc$CRCD=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR4\01_China_RR4.wav
+hivel=25
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR4\02_China_RR4.wav
+lovel=26
+hivel=51
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR4\03_China_RR4.wav
+lovel=52
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR4\04_China_RR4.wav
+lovel=77
+hivel=101
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\China Cymbal (Samples)\RR4\05_China_RR4.wav
+lovel=102

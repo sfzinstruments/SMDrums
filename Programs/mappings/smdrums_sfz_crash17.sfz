@@ -1,0 +1,545 @@
+
+<group>
+key=$CR17KEY
+
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$CR17V=100
+pan=-100
+pan_oncc$CR17P=200
+tune=-1200
+tune_oncc$C17T=4800
+tune_curvecc$C17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$C17D=-0.4
+ampeg_hold_curvecc$C17D=8
+ampeg_decay=2
+ampeg_decay_oncc$C17D=-1.9
+ampeg_decay_curvecc$C17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$C17D=-100
+ampeg_sustain_curvecc$C17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\01_Crash_17in_L_edge_RR1.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\02_Crash_17in_L_edge_RR1.wav
+lovel=6
+hivel=11
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\03_Crash_17in_L_edge_RR1.wav
+lovel=11
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\04_Crash_17in_L_edge_RR1.wav
+lovel=17
+hivel=21
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\05_Crash_17in_L_edge_RR1.wav
+lovel=22
+hivel=26
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\06_Crash_17in_L_edge_RR1.wav
+lovel=27
+hivel=32
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\07_Crash_17in_L_edge_RR1.wav
+lovel=33
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\08_Crash_17in_L_edge_RR1.wav
+lovel=38
+hivel=43
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\09_Crash_17in_L_edge_RR1.wav
+lovel=44
+hivel=48
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\10_Crash_17in_L_edge_RR1.wav
+lovel=49
+hivel=54
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\11_Crash_17in_L_edge_RR1.wav
+lovel=55
+hivel=60
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\12_Crash_17in_L_edge_RR1.wav
+lovel=61
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\13_Crash_17in_L_edge_RR1.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\14_Crash_17in_L_edge_RR1.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\15_Crash_17in_L_edge_RR1.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\16_Crash_17in_L_edge_RR1.wav
+lovel=83
+hivel=88
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\17_Crash_17in_L_edge_RR1.wav
+lovel=89
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\18_Crash_17in_L_edge_RR1.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\19_Crash_17in_L_edge_RR1.wav
+lovel=100
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\20_Crash_17in_L_edge_RR1.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\21_Crash_17in_L_edge_RR1.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\22_Crash_17in_L_edge_RR1.wav
+lovel=117
+hivel=121
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR1\23_Crash_17in_L_edge_RR1.wav
+lovel=122
+
+//========================
+<group>
+key=$CR17KEY
+
+lorand=0.250
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$CR17V=100
+pan=-100
+pan_oncc$CR17P=200
+tune=-1200
+tune_oncc$C17T=4800
+tune_curvecc$C17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$C17D=-0.4
+ampeg_hold_curvecc$C17D=8
+ampeg_decay=2
+ampeg_decay_oncc$C17D=-1.9
+ampeg_decay_curvecc$C17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$C17D=-100
+ampeg_sustain_curvecc$C17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\01_Crash_17in_L_edge_RR2.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\02_Crash_17in_L_edge_RR2.wav
+lovel=6
+hivel=11
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\03_Crash_17in_L_edge_RR2.wav
+lovel=11
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\04_Crash_17in_L_edge_RR2.wav
+lovel=17
+hivel=21
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\05_Crash_17in_L_edge_RR2.wav
+lovel=22
+hivel=26
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\06_Crash_17in_L_edge_RR2.wav
+lovel=27
+hivel=32
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\07_Crash_17in_L_edge_RR2.wav
+lovel=33
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\08_Crash_17in_L_edge_RR2.wav
+lovel=38
+hivel=43
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\09_Crash_17in_L_edge_RR2.wav
+lovel=44
+hivel=48
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\10_Crash_17in_L_edge_RR2.wav
+lovel=49
+hivel=54
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\11_Crash_17in_L_edge_RR2.wav
+lovel=55
+hivel=60
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\12_Crash_17in_L_edge_RR2.wav
+lovel=61
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\13_Crash_17in_L_edge_RR2.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\14_Crash_17in_L_edge_RR2.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\15_Crash_17in_L_edge_RR2.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\16_Crash_17in_L_edge_RR2.wav
+lovel=83
+hivel=88
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\17_Crash_17in_L_edge_RR2.wav
+lovel=89
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\18_Crash_17in_L_edge_RR2.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\19_Crash_17in_L_edge_RR2.wav
+lovel=100
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\20_Crash_17in_L_edge_RR2.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\21_Crash_17in_L_edge_RR2.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\22_Crash_17in_L_edge_RR2.wav
+lovel=117
+hivel=121
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR2\23_Crash_17in_L_edge_RR2.wav
+lovel=122
+
+//========================
+<group>
+key=$CR17KEY
+
+lorand=0.500
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$CR17V=100
+pan=-100
+pan_oncc$CR17P=200
+tune=-1200
+tune_oncc$C17T=4800
+tune_curvecc$C17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$C17D=-0.4
+ampeg_hold_curvecc$C17D=8
+ampeg_decay=2
+ampeg_decay_oncc$C17D=-1.9
+ampeg_decay_curvecc$C17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$C17D=-100
+ampeg_sustain_curvecc$C17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\01_Crash_17in_L_edge_RR3.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\02_Crash_17in_L_edge_RR3.wav
+lovel=6
+hivel=11
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\03_Crash_17in_L_edge_RR3.wav
+lovel=11
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\04_Crash_17in_L_edge_RR3.wav
+lovel=17
+hivel=21
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\05_Crash_17in_L_edge_RR3.wav
+lovel=22
+hivel=26
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\06_Crash_17in_L_edge_RR3.wav
+lovel=27
+hivel=32
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\07_Crash_17in_L_edge_RR3.wav
+lovel=33
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\08_Crash_17in_L_edge_RR3.wav
+lovel=38
+hivel=43
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\09_Crash_17in_L_edge_RR3.wav
+lovel=44
+hivel=48
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\10_Crash_17in_L_edge_RR3.wav
+lovel=49
+hivel=54
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\11_Crash_17in_L_edge_RR3.wav
+lovel=55
+hivel=60
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\12_Crash_17in_L_edge_RR3.wav
+lovel=61
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\13_Crash_17in_L_edge_RR3.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\14_Crash_17in_L_edge_RR3.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\15_Crash_17in_L_edge_RR3.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\16_Crash_17in_L_edge_RR3.wav
+lovel=83
+hivel=88
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\17_Crash_17in_L_edge_RR3.wav
+lovel=89
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\18_Crash_17in_L_edge_RR3.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\19_Crash_17in_L_edge_RR3.wav
+lovel=100
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\20_Crash_17in_L_edge_RR3.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\21_Crash_17in_L_edge_RR3.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\22_Crash_17in_L_edge_RR3.wav
+lovel=117
+hivel=121
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR3\23_Crash_17in_L_edge_RR3.wav
+lovel=122
+
+//========================
+<group>
+key=$CR17KEY
+
+lorand=0.750
+
+amp_veltrack=0
+amplitude_oncc$CR17V=100
+pan=-100
+pan_oncc$CR17P=200
+tune=-1200
+tune_oncc$C17T=4800
+tune_curvecc$C17T=9
+ampeg_hold=0.4
+ampeg_hold_oncc$C17D=-0.4
+ampeg_hold_curvecc$C17D=8
+ampeg_decay=2
+ampeg_decay_oncc$C17D=-1.9
+ampeg_decay_curvecc$C17D=8
+ampeg_sustain=100
+ampeg_sustain_oncc$C17D=-100
+ampeg_sustain_curvecc$C17D=7
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\01_Crash_17in_L_edge_RR4.wav
+hivel=5
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\02_Crash_17in_L_edge_RR4.wav
+lovel=6
+hivel=11
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\03_Crash_17in_L_edge_RR4.wav
+lovel=11
+hivel=16
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\04_Crash_17in_L_edge_RR4.wav
+lovel=17
+hivel=21
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\05_Crash_17in_L_edge_RR4.wav
+lovel=22
+hivel=26
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\06_Crash_17in_L_edge_RR4.wav
+lovel=27
+hivel=32
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\07_Crash_17in_L_edge_RR4.wav
+lovel=33
+hivel=37
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\08_Crash_17in_L_edge_RR4.wav
+lovel=38
+hivel=43
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\09_Crash_17in_L_edge_RR4.wav
+lovel=44
+hivel=48
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\10_Crash_17in_L_edge_RR4.wav
+lovel=49
+hivel=54
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\11_Crash_17in_L_edge_RR4.wav
+lovel=55
+hivel=60
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\12_Crash_17in_L_edge_RR4.wav
+lovel=61
+hivel=65
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\13_Crash_17in_L_edge_RR4.wav
+lovel=66
+hivel=71
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\14_Crash_17in_L_edge_RR4.wav
+lovel=72
+hivel=76
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\15_Crash_17in_L_edge_RR4.wav
+lovel=77
+hivel=82
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\16_Crash_17in_L_edge_RR4.wav
+lovel=83
+hivel=88
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\17_Crash_17in_L_edge_RR4.wav
+lovel=89
+hivel=94
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\18_Crash_17in_L_edge_RR4.wav
+lovel=95
+hivel=99
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\19_Crash_17in_L_edge_RR4.wav
+lovel=100
+hivel=105
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\20_Crash_17in_L_edge_RR4.wav
+lovel=106
+hivel=111
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\21_Crash_17in_L_edge_RR4.wav
+lovel=112
+hivel=116
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\22_Crash_17in_L_edge_RR4.wav
+lovel=117
+hivel=121
+
+<region>
+sample=..\Samples\SMD Cymbals Stereo (Samples)\Crash (Samples)\Crash 17 (Samples)\RR4\23_Crash_17in_L_edge_RR4.wav
+lovel=122

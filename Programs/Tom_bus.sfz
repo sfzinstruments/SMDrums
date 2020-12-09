@@ -1,0 +1,74 @@
+//SM Drums
+//Tom bus
+
+//Keymap for the toms
+#define $TOMFLKEY 43
+#define $TOM2KEY 45
+#define $TOM3KEY 47
+#define $TOM4KEY 48
+
+#define $TFLV 109
+#define $TLOV 111
+#define $TMIV 113
+#define $THIV 115
+
+#define $TFLP 110
+#define $TLOP 112
+#define $TMIP 114
+#define $THIP 116
+
+#define $TFLT 50
+#define $TLOT 52
+#define $TMIT 54
+#define $THIT 56
+
+#define $TFLD 51
+#define $TLOD 53
+#define $TMID 55
+#define $THID 57
+
+<control>
+
+label_cc$TFLV=Floor Tom
+label_cc$TFLP=Floor Tom Pan
+label_cc$TFLT=Floor Tom Tune
+label_cc$TFLD=Floor Tom Decay
+label_cc$TLOV=Low Tom
+label_cc$TLOP=Low Tom Pan
+label_cc$TLOT=Low Tom Tune
+label_cc$TLOD=Low Tom Decay
+label_cc$TMIV=Mid Tom
+label_cc$TMIP=Mid Tom Pan
+label_cc$TMIT=Mid Tom Tune
+label_cc$TMID=Mid Tom Decay
+label_cc$THIV=Hi Tom
+label_cc$THIP=Hi Tom Pan
+label_cc$THIT=Hi Tom Tune
+label_cc$THID=Hi Tom Decay
+
+set_cc$TFLV=127
+set_cc$TFLP=64
+set_cc$TLOV=127
+set_cc$TLOP=64
+set_cc$TMIV=127
+set_cc$TMIP=64
+set_cc$THIV=127
+set_cc$THIP=64
+set_cc$TFLT=63
+set_cc$TFLD=0
+set_cc$TLOT=63
+set_cc$TLOD=0
+set_cc$TMIT=63
+set_cc$TMID=0
+set_cc$THIT=63
+set_cc$THID=0
+
+<global>
+loop_mode=one_shot
+
+
+#include "mappings/smdrums_sfz_tom1.sfz"
+#include "mappings/smdrums_sfz_tom2.sfz"
+#include "mappings/smdrums_sfz_tom3.sfz"
+#include "mappings/smdrums_sfz_tom4.sfz"
+#include "mappings/smdrums_curves.sfz"

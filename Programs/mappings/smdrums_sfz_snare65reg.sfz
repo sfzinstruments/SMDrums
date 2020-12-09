@@ -1,0 +1,1541 @@
+
+<group>
+key=$SNR65RKEY
+
+hirand=0.125
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\01_Snare65_Reg_Stereo_RR1.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\02_Snare65_Reg_Stereo_RR1.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\03_Snare65_Reg_Stereo_RR1.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\04_Snare65_Reg_Stereo_RR1.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\05_Snare65_Reg_Stereo_RR1.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\06_Snare65_Reg_Stereo_RR1.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\07_Snare65_Reg_Stereo_RR1.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\08_Snare65_Reg_Stereo_RR1.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\09_Snare65_Reg_Stereo_RR1.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\10_Snare65_Reg_Stereo_RR1.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\11_Snare65_Reg_Stereo_RR1.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\12_Snare65_Reg_Stereo_RR1.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\13_Snare65_Reg_Stereo_RR1.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\14_Snare65_Reg_Stereo_RR1.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\15_Snare65_Reg_Stereo_RR1.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\16_Snare65_Reg_Stereo_RR1.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\17_Snare65_Reg_Stereo_RR1.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\18_Snare65_Reg_Stereo_RR1.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\19_Snare65_Reg_Stereo_RR1.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\20_Snare65_Reg_Stereo_RR1.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\21_Snare65_Reg_Stereo_RR1.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\22_Snare65_Reg_Stereo_RR1.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\23_Snare65_Reg_Stereo_RR1.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\24_Snare65_Reg_Stereo_RR1.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\25_Snare65_Reg_Stereo_RR1.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\26_Snare65_Reg_Stereo_RR1.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\27_Snare65_Reg_Stereo_RR1.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\28_Snare65_Reg_Stereo_RR1.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\29_Snare65_Reg_Stereo_RR1.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\30_Snare65_Reg_Stereo_RR1.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\31_Snare65_Reg_Stereo_RR1.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\32_Snare65_Reg_Stereo_RR1.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\33_Snare65_Reg_Stereo_RR1.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR1\34_Snare65_Reg_Stereo_RR1.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.125
+hirand=0.250
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\01_Snare65_Reg_Stereo_RR2.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\02_Snare65_Reg_Stereo_RR2.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\03_Snare65_Reg_Stereo_RR2.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\04_Snare65_Reg_Stereo_RR2.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\05_Snare65_Reg_Stereo_RR2.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\06_Snare65_Reg_Stereo_RR2.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\07_Snare65_Reg_Stereo_RR2.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\08_Snare65_Reg_Stereo_RR2.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\09_Snare65_Reg_Stereo_RR2.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\10_Snare65_Reg_Stereo_RR2.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\11_Snare65_Reg_Stereo_RR2.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\12_Snare65_Reg_Stereo_RR2.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\13_Snare65_Reg_Stereo_RR2.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\14_Snare65_Reg_Stereo_RR2.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\15_Snare65_Reg_Stereo_RR2.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\16_Snare65_Reg_Stereo_RR2.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\17_Snare65_Reg_Stereo_RR2.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\18_Snare65_Reg_Stereo_RR2.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\19_Snare65_Reg_Stereo_RR2.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\20_Snare65_Reg_Stereo_RR2.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\21_Snare65_Reg_Stereo_RR2.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\22_Snare65_Reg_Stereo_RR2.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\23_Snare65_Reg_Stereo_RR2.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\24_Snare65_Reg_Stereo_RR2.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\25_Snare65_Reg_Stereo_RR2.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\26_Snare65_Reg_Stereo_RR2.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\27_Snare65_Reg_Stereo_RR2.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\28_Snare65_Reg_Stereo_RR2.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\29_Snare65_Reg_Stereo_RR2.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\30_Snare65_Reg_Stereo_RR2.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\31_Snare65_Reg_Stereo_RR2.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\32_Snare65_Reg_Stereo_RR2.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\33_Snare65_Reg_Stereo_RR2.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR2\34_Snare65_Reg_Stereo_RR2.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.250
+hirand=0.375
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\01_Snare65_Reg_Stereo_RR3.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\02_Snare65_Reg_Stereo_RR3.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\03_Snare65_Reg_Stereo_RR3.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\04_Snare65_Reg_Stereo_RR3.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\05_Snare65_Reg_Stereo_RR3.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\06_Snare65_Reg_Stereo_RR3.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\07_Snare65_Reg_Stereo_RR3.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\08_Snare65_Reg_Stereo_RR3.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\09_Snare65_Reg_Stereo_RR3.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\10_Snare65_Reg_Stereo_RR3.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\11_Snare65_Reg_Stereo_RR3.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\12_Snare65_Reg_Stereo_RR3.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\13_Snare65_Reg_Stereo_RR3.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\14_Snare65_Reg_Stereo_RR3.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\15_Snare65_Reg_Stereo_RR3.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\16_Snare65_Reg_Stereo_RR3.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\17_Snare65_Reg_Stereo_RR3.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\18_Snare65_Reg_Stereo_RR3.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\19_Snare65_Reg_Stereo_RR3.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\20_Snare65_Reg_Stereo_RR3.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\21_Snare65_Reg_Stereo_RR3.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\22_Snare65_Reg_Stereo_RR3.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\23_Snare65_Reg_Stereo_RR3.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\24_Snare65_Reg_Stereo_RR3.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\25_Snare65_Reg_Stereo_RR3.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\26_Snare65_Reg_Stereo_RR3.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\27_Snare65_Reg_Stereo_RR3.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\28_Snare65_Reg_Stereo_RR3.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\29_Snare65_Reg_Stereo_RR3.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\30_Snare65_Reg_Stereo_RR3.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\31_Snare65_Reg_Stereo_RR3.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\32_Snare65_Reg_Stereo_RR3.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\33_Snare65_Reg_Stereo_RR3.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR3\34_Snare65_Reg_Stereo_RR3.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.375
+hirand=0.500
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\01_Snare65_Reg_Stereo_RR4.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\02_Snare65_Reg_Stereo_RR4.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\03_Snare65_Reg_Stereo_RR4.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\04_Snare65_Reg_Stereo_RR4.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\05_Snare65_Reg_Stereo_RR4.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\06_Snare65_Reg_Stereo_RR4.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\07_Snare65_Reg_Stereo_RR4.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\08_Snare65_Reg_Stereo_RR4.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\09_Snare65_Reg_Stereo_RR4.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\10_Snare65_Reg_Stereo_RR4.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\11_Snare65_Reg_Stereo_RR4.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\12_Snare65_Reg_Stereo_RR4.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\13_Snare65_Reg_Stereo_RR4.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\14_Snare65_Reg_Stereo_RR4.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\15_Snare65_Reg_Stereo_RR4.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\16_Snare65_Reg_Stereo_RR4.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\17_Snare65_Reg_Stereo_RR4.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\18_Snare65_Reg_Stereo_RR4.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\19_Snare65_Reg_Stereo_RR4.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\20_Snare65_Reg_Stereo_RR4.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\21_Snare65_Reg_Stereo_RR4.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\22_Snare65_Reg_Stereo_RR4.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\23_Snare65_Reg_Stereo_RR4.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\24_Snare65_Reg_Stereo_RR4.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\25_Snare65_Reg_Stereo_RR4.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\26_Snare65_Reg_Stereo_RR4.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\27_Snare65_Reg_Stereo_RR4.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\28_Snare65_Reg_Stereo_RR4.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\29_Snare65_Reg_Stereo_RR4.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\30_Snare65_Reg_Stereo_RR4.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\31_Snare65_Reg_Stereo_RR4.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\32_Snare65_Reg_Stereo_RR4.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\33_Snare65_Reg_Stereo_RR4.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR4\34_Snare65_Reg_Stereo_RR4.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.500
+hirand=0.625
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\01_Snare65_Reg_Stereo_RR5.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\02_Snare65_Reg_Stereo_RR5.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\03_Snare65_Reg_Stereo_RR5.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\04_Snare65_Reg_Stereo_RR5.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\05_Snare65_Reg_Stereo_RR5.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\06_Snare65_Reg_Stereo_RR5.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\07_Snare65_Reg_Stereo_RR5.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\08_Snare65_Reg_Stereo_RR5.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\09_Snare65_Reg_Stereo_RR5.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\10_Snare65_Reg_Stereo_RR5.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\11_Snare65_Reg_Stereo_RR5.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\12_Snare65_Reg_Stereo_RR5.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\13_Snare65_Reg_Stereo_RR5.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\14_Snare65_Reg_Stereo_RR5.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\15_Snare65_Reg_Stereo_RR5.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\16_Snare65_Reg_Stereo_RR5.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\17_Snare65_Reg_Stereo_RR5.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\18_Snare65_Reg_Stereo_RR5.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\19_Snare65_Reg_Stereo_RR5.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\20_Snare65_Reg_Stereo_RR5.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\21_Snare65_Reg_Stereo_RR5.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\22_Snare65_Reg_Stereo_RR5.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\23_Snare65_Reg_Stereo_RR5.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\24_Snare65_Reg_Stereo_RR5.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\25_Snare65_Reg_Stereo_RR5.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\26_Snare65_Reg_Stereo_RR5.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\27_Snare65_Reg_Stereo_RR5.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\28_Snare65_Reg_Stereo_RR5.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\29_Snare65_Reg_Stereo_RR5.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\30_Snare65_Reg_Stereo_RR5.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\31_Snare65_Reg_Stereo_RR5.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\32_Snare65_Reg_Stereo_RR5.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\33_Snare65_Reg_Stereo_RR5.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR5\34_Snare65_Reg_Stereo_RR5.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.625
+hirand=0.750
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\01_Snare65_Reg_Stereo_RR6.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\02_Snare65_Reg_Stereo_RR6.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\03_Snare65_Reg_Stereo_RR6.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\04_Snare65_Reg_Stereo_RR6.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\05_Snare65_Reg_Stereo_RR6.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\06_Snare65_Reg_Stereo_RR6.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\07_Snare65_Reg_Stereo_RR6.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\08_Snare65_Reg_Stereo_RR6.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\09_Snare65_Reg_Stereo_RR6.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\10_Snare65_Reg_Stereo_RR6.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\11_Snare65_Reg_Stereo_RR6.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\12_Snare65_Reg_Stereo_RR6.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\13_Snare65_Reg_Stereo_RR6.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\14_Snare65_Reg_Stereo_RR6.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\15_Snare65_Reg_Stereo_RR6.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\16_Snare65_Reg_Stereo_RR6.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\17_Snare65_Reg_Stereo_RR6.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\18_Snare65_Reg_Stereo_RR6.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\19_Snare65_Reg_Stereo_RR6.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\20_Snare65_Reg_Stereo_RR6.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\21_Snare65_Reg_Stereo_RR6.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\22_Snare65_Reg_Stereo_RR6.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\23_Snare65_Reg_Stereo_RR6.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\24_Snare65_Reg_Stereo_RR6.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\25_Snare65_Reg_Stereo_RR6.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\26_Snare65_Reg_Stereo_RR6.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\27_Snare65_Reg_Stereo_RR6.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\28_Snare65_Reg_Stereo_RR6.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\29_Snare65_Reg_Stereo_RR6.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\30_Snare65_Reg_Stereo_RR6.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\31_Snare65_Reg_Stereo_RR6.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\32_Snare65_Reg_Stereo_RR6.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\33_Snare65_Reg_Stereo_RR6.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR6\34_Snare65_Reg_Stereo_RR6.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.750
+hirand=0.875
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\01_Snare65_Reg_Stereo_RR7.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\02_Snare65_Reg_Stereo_RR7.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\03_Snare65_Reg_Stereo_RR7.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\04_Snare65_Reg_Stereo_RR7.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\05_Snare65_Reg_Stereo_RR7.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\06_Snare65_Reg_Stereo_RR7.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\07_Snare65_Reg_Stereo_RR7.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\08_Snare65_Reg_Stereo_RR7.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\09_Snare65_Reg_Stereo_RR7.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\10_Snare65_Reg_Stereo_RR7.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\11_Snare65_Reg_Stereo_RR7.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\12_Snare65_Reg_Stereo_RR7.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\13_Snare65_Reg_Stereo_RR7.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\14_Snare65_Reg_Stereo_RR7.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\15_Snare65_Reg_Stereo_RR7.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\16_Snare65_Reg_Stereo_RR7.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\17_Snare65_Reg_Stereo_RR7.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\18_Snare65_Reg_Stereo_RR7.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\19_Snare65_Reg_Stereo_RR7.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\20_Snare65_Reg_Stereo_RR7.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\21_Snare65_Reg_Stereo_RR7.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\22_Snare65_Reg_Stereo_RR7.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\23_Snare65_Reg_Stereo_RR7.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\24_Snare65_Reg_Stereo_RR7.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\25_Snare65_Reg_Stereo_RR7.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\26_Snare65_Reg_Stereo_RR7.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\27_Snare65_Reg_Stereo_RR7.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\28_Snare65_Reg_Stereo_RR7.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\29_Snare65_Reg_Stereo_RR7.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\30_Snare65_Reg_Stereo_RR7.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\31_Snare65_Reg_Stereo_RR7.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\32_Snare65_Reg_Stereo_RR7.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\33_Snare65_Reg_Stereo_RR7.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR7\34_Snare65_Reg_Stereo_RR7.wav
+lovel=124
+
+//========================
+<group>
+key=$SNR65RKEY
+
+lorand=0.875
+
+amp_veltrack=0
+amplitude_oncc$S65RV=100
+pan=-100
+pan_oncc$S65RP=200
+tune=-1200
+tune_oncc$SNARET=4800
+tune_curvecc$SNARET=9
+ampeg_hold=0.3
+ampeg_hold_oncc$SNARED=-0.3
+ampeg_hold_curvecc$SNARED=8
+ampeg_decay=1
+ampeg_decay_oncc$SNARED=-0.98
+ampeg_decay_curvecc$SNARED=8
+ampeg_sustain=100
+ampeg_sustain_oncc$SNARED=-100
+ampeg_sustain_curvecc$SNARED=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\01_Snare65_Reg_Stereo_RR8.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\02_Snare65_Reg_Stereo_RR8.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\03_Snare65_Reg_Stereo_RR8.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\04_Snare65_Reg_Stereo_RR8.wav
+lovel=12
+hivel=14
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\05_Snare65_Reg_Stereo_RR8.wav
+lovel=15
+hivel=18
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\06_Snare65_Reg_Stereo_RR8.wav
+lovel=19
+hivel=22
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\07_Snare65_Reg_Stereo_RR8.wav
+lovel=23
+hivel=26
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\08_Snare65_Reg_Stereo_RR8.wav
+lovel=27
+hivel=29
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\09_Snare65_Reg_Stereo_RR8.wav
+lovel=30
+hivel=33
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\10_Snare65_Reg_Stereo_RR8.wav
+lovel=34
+hivel=37
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\11_Snare65_Reg_Stereo_RR8.wav
+lovel=38
+hivel=41
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\12_Snare65_Reg_Stereo_RR8.wav
+lovel=42
+hivel=44
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\13_Snare65_Reg_Stereo_RR8.wav
+lovel=45
+hivel=48
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\14_Snare65_Reg_Stereo_RR8.wav
+lovel=49
+hivel=52
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\15_Snare65_Reg_Stereo_RR8.wav
+lovel=53
+hivel=56
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\16_Snare65_Reg_Stereo_RR8.wav
+lovel=57
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\17_Snare65_Reg_Stereo_RR8.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\18_Snare65_Reg_Stereo_RR8.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\19_Snare65_Reg_Stereo_RR8.wav
+lovel=68
+hivel=70
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\20_Snare65_Reg_Stereo_RR8.wav
+lovel=71
+hivel=74
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\21_Snare65_Reg_Stereo_RR8.wav
+lovel=75
+hivel=78
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\22_Snare65_Reg_Stereo_RR8.wav
+lovel=79
+hivel=81
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\23_Snare65_Reg_Stereo_RR8.wav
+lovel=82
+hivel=85
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\24_Snare65_Reg_Stereo_RR8.wav
+lovel=86
+hivel=89
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\25_Snare65_Reg_Stereo_RR8.wav
+lovel=90
+hivel=92
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\26_Snare65_Reg_Stereo_RR8.wav
+lovel=93
+hivel=96
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\27_Snare65_Reg_Stereo_RR8.wav
+lovel=97
+hivel=100
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\28_Snare65_Reg_Stereo_RR8.wav
+lovel=101
+hivel=104
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\29_Snare65_Reg_Stereo_RR8.wav
+lovel=105
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\30_Snare65_Reg_Stereo_RR8.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\31_Snare65_Reg_Stereo_RR8.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\32_Snare65_Reg_Stereo_RR8.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\33_Snare65_Reg_Stereo_RR8.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Snare65_Reg_Stereo\RR8\34_Snare65_Reg_Stereo_RR8.wav
+lovel=124

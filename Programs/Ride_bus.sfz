@@ -1,0 +1,54 @@
+//SM Drums
+//Ride bus
+
+//Keymap for the rides
+#define $RI17EKEY 60
+#define $RI17BKEY 61
+#define $RI20EKEY 62
+#define $RI20BKEY 63
+
+#define $RI17EV 103
+#define $RI17BV 104
+#define $RI20EV 106
+#define $RI20BV 107
+
+#define $RI17P 105
+#define $RI20P 108
+
+#define $RI17T 16
+#define $RI20T 18
+#define $RI17D 17
+#define $RI20D 19
+
+<control>
+label_cc$RI17EV=Ride 17 Edge
+label_cc$RI17BV=Ride 17 Bell
+label_cc$RI17P=Ride 17 Pan
+label_cc$RI20EV=Ride 20 Edge
+label_cc$RI20BV=Ride 20 Bell
+label_cc$RI20P=Ride 20 Pan
+label_cc$RI17T=Ride 17 Tune
+label_cc$RI17D=Ride 17 Decay
+label_cc$RI20T=Ride 20 Tune
+label_cc$RI20D=Ride 20 Decay
+
+set_cc$RI17EV=127
+set_cc$RI17BV=127
+set_cc$RI17P=64
+set_cc$RI20EV=127
+set_cc$RI20BV=127
+set_cc$RI20P=64
+set_cc$RI17T=63
+set_cc$RI17D=0
+set_cc$RI20T=63
+set_cc$RI20D=0
+
+<global>
+loop_mode=one_shot
+
+
+#include "mappings/smdrums_sfz_ride17tip.sfz"
+#include "mappings/smdrums_sfz_ride17bell.sfz"
+#include "mappings/smdrums_sfz_ride20tip.sfz"
+#include "mappings/smdrums_sfz_ride20bell.sfz"
+#include "mappings/smdrums_curves.sfz"

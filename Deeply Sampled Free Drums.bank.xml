@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Key>B4CFE910A91AA28C3ACBF785A2522DBE22600CE8CFB576F691F3266A92CE2993A1D319E65F82465814490F2A306BB7EE0BA028BD880819FEE9F6150C84194586CA8B186533F6F442DEDF0210DD1E69C6F812A0530CE201458FBBD5884D5681E9A39D502FEE24844EA5A6594B422590E2BC8FA8C1DB91A53547A9BF2C185C50C215011A8059F9F73F0C36FE4F946D8580E346FA92A382BCC6964D4033C1E33E55261A7023703A7878E94BF134F6D266159AE21FFE4F440E779983EFBBBCEAC54469E66456487F87C73560342C36046DC28348C2922140F2AC2DC5466D2875F5B318280475C00120D0E56A5D1B6201B3BFEAFFFABE6337FA06E443F857CCBE27AE</Key>
+<AriaBank id="2507" name="Deeply Sampled Free Drums" vendor="SM Drums" product="Deeply Sampled Free Drums" version="1000" >
+
+	<Define name="$sample_dir" value="../Samples"/>
+
+	<!-- branding for Aria Player and sforzando UIs -->
+	<AriaGUI path="GUI/aria_info.xml"  target="*ARIA_INFO" />	
+
+	<AriaProgram  name="SM Drums kit"   gui="GUI/SM_Drums_kit.xml">   <AriaElement  path="Programs/SM_Drums_kit.sfz"/> </AriaProgram>
+	<AriaProgram  name="Kick bus"     	gui="GUI/Kick_bus.xml" >      <AriaElement  path="Programs/Kick_bus.sfz"/>		</AriaProgram>
+	<AriaProgram  name="Snare bus"     	gui="GUI/Snare_bus.xml" >     <AriaElement  path="Programs/Snare_bus.sfz"/>		</AriaProgram>
+	<AriaProgram  name="Hi-hat bus"     gui="GUI/Hi_hat_bus.xml" >    <AriaElement  path="Programs/Hi_hat_bus.sfz"/>	</AriaProgram>   			
+	<AriaProgram  name="Tom bus"     	gui="GUI/Tom_bus.xml" >       <AriaElement  path="Programs/Tom_bus.sfz"/>	    </AriaProgram>	
+	<AriaProgram  name="Crash bus"     	gui="GUI/Crash_bus.xml" >     <AriaElement  path="Programs/Crash_bus.sfz"/>		</AriaProgram>	
+	<AriaProgram  name="Ride bus"     	gui="GUI/Ride_bus.xml" >      <AriaElement  path="Programs/Ride_bus.sfz"/>		</AriaProgram>			                                                               
+
+</AriaBank>

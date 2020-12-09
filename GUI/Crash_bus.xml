@@ -1,0 +1,92 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="drums_controls_tab_bus.png" transparent="0"  />
+	
+	<!-- Controls - Crashes -->
+	
+	<StaticText x="339" y="19" w="100" h="20" text="CRASHES" color_text="#FFFFFFFF" transparent="1"  />
+
+	<StaticText x="259" y="37" w="100" h="18" text="13 in" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="93" x="296" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="299" y="37" w="100" h="18" text="15 in" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="95" x="336" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="339" y="37" w="100" h="18" text="16 in" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="97" x="376" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="379" y="37" w="100" h="18" text="17 in" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="99" x="416" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="419" y="37" w="100" h="18" text="China" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="101" x="456" y="55" image="Drum_fader_less_frames.png" frames="89"  />
+
+	<StaticText x="259" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="94" x="292" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="259" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="26" x="292" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="259" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="27" x="292" y="280" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="299" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="96" x="332" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="299" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="28" x="332" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="299" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="29" x="332" y="280" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="98" x="372" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="30" x="372" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="339" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="31" x="372" y="280" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="100" x="412" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="32" x="412" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="379" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="33" x="412" y="280" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="419" y="151" w="100" h="18" text="Pan" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="102" x="452" y="170" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="419" y="206" w="100" h="18" text="Tune" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="34" x="452" y="225" image="Drum_knob.png" frames="128"  />
+
+	<StaticText x="419" y="261" w="100" h="18" text="Env" color_text="#FFFFFFFF" transparent="1"   />
+	
+	<Knob param="35" x="452" y="280" image="Drum_knob.png" frames="128"  />
+
+
+</GUI>                                                                                                                                       

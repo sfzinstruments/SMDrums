@@ -1,0 +1,1428 @@
+
+<group>
+key=$KICKKEY
+hirand=0.125
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\01_Kik_Stereo_RR1.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\02_Kik_Stereo_RR1.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\03_Kik_Stereo_RR1.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\04_Kik_Stereo_RR1.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\05_Kik_Stereo_RR1.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\06_Kik_Stereo_RR1.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\07_Kik_Stereo_RR1.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\08_Kik_Stereo_RR1.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\09_Kik_Stereo_RR1.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\10_Kik_Stereo_RR1.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\11_Kik_Stereo_RR1.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\12_Kik_Stereo_RR1.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\13_Kik_Stereo_RR1.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\14_Kik_Stereo_RR1.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\15_Kik_Stereo_RR1.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\16_Kik_Stereo_RR1.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\17_Kik_Stereo_RR1.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\18_Kik_Stereo_RR1.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\19_Kik_Stereo_RR1.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\20_Kik_Stereo_RR1.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\21_Kik_Stereo_RR1.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\22_Kik_Stereo_RR1.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\23_Kik_Stereo_RR1.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\24_Kik_Stereo_RR1.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\25_Kik_Stereo_RR1.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\26_Kik_Stereo_RR1.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\27_Kik_Stereo_RR1.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\28_Kik_Stereo_RR1.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\29_Kik_Stereo_RR1.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\30_Kik_Stereo_RR1.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\31_Kik_Stereo_RR1.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR1\32_Kik_Stereo_RR1.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.125
+hirand=0.250
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\01_Kik_Stereo_RR2.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\02_Kik_Stereo_RR2.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\03_Kik_Stereo_RR2.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\04_Kik_Stereo_RR2.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\05_Kik_Stereo_RR2.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\06_Kik_Stereo_RR2.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\07_Kik_Stereo_RR2.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\08_Kik_Stereo_RR2.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\09_Kik_Stereo_RR2.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\10_Kik_Stereo_RR2.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\11_Kik_Stereo_RR2.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\12_Kik_Stereo_RR2.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\13_Kik_Stereo_RR2.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\14_Kik_Stereo_RR2.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\15_Kik_Stereo_RR2.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\16_Kik_Stereo_RR2.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\17_Kik_Stereo_RR2.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\18_Kik_Stereo_RR2.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\19_Kik_Stereo_RR2.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\20_Kik_Stereo_RR2.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\21_Kik_Stereo_RR2.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\22_Kik_Stereo_RR2.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\23_Kik_Stereo_RR2.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\24_Kik_Stereo_RR2.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\25_Kik_Stereo_RR2.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\26_Kik_Stereo_RR2.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\27_Kik_Stereo_RR2.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\28_Kik_Stereo_RR2.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\29_Kik_Stereo_RR2.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\30_Kik_Stereo_RR2.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\31_Kik_Stereo_RR2.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR2\32_Kik_Stereo_RR2.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.250
+hirand=0.375
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\01_Kik_Stereo_RR3.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\02_Kik_Stereo_RR3.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\03_Kik_Stereo_RR3.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\04_Kik_Stereo_RR3.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\05_Kik_Stereo_RR3.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\06_Kik_Stereo_RR3.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\07_Kik_Stereo_RR3.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\08_Kik_Stereo_RR3.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\09_Kik_Stereo_RR3.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\10_Kik_Stereo_RR3.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\11_Kik_Stereo_RR3.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\12_Kik_Stereo_RR3.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\13_Kik_Stereo_RR3.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\14_Kik_Stereo_RR3.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\15_Kik_Stereo_RR3.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\16_Kik_Stereo_RR3.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\17_Kik_Stereo_RR3.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\18_Kik_Stereo_RR3.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\19_Kik_Stereo_RR3.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\20_Kik_Stereo_RR3.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\21_Kik_Stereo_RR3.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\22_Kik_Stereo_RR3.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\23_Kik_Stereo_RR3.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\24_Kik_Stereo_RR3.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\25_Kik_Stereo_RR3.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\26_Kik_Stereo_RR3.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\27_Kik_Stereo_RR3.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\28_Kik_Stereo_RR3.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\29_Kik_Stereo_RR3.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\30_Kik_Stereo_RR3.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\31_Kik_Stereo_RR3.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR3\32_Kik_Stereo_RR3.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.375
+hirand=0.500
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\01_Kik_Stereo_RR4.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\02_Kik_Stereo_RR4.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\03_Kik_Stereo_RR4.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\04_Kik_Stereo_RR4.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\05_Kik_Stereo_RR4.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\06_Kik_Stereo_RR4.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\07_Kik_Stereo_RR4.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\08_Kik_Stereo_RR4.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\09_Kik_Stereo_RR4.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\10_Kik_Stereo_RR4.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\11_Kik_Stereo_RR4.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\12_Kik_Stereo_RR4.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\13_Kik_Stereo_RR4.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\14_Kik_Stereo_RR4.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\15_Kik_Stereo_RR4.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\16_Kik_Stereo_RR4.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\17_Kik_Stereo_RR4.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\18_Kik_Stereo_RR4.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\19_Kik_Stereo_RR4.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\20_Kik_Stereo_RR4.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\21_Kik_Stereo_RR4.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\22_Kik_Stereo_RR4.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\23_Kik_Stereo_RR4.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\24_Kik_Stereo_RR4.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\25_Kik_Stereo_RR4.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\26_Kik_Stereo_RR4.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\27_Kik_Stereo_RR4.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\28_Kik_Stereo_RR4.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\29_Kik_Stereo_RR4.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\30_Kik_Stereo_RR4.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\31_Kik_Stereo_RR4.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR4\32_Kik_Stereo_RR4.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.500
+hirand=0.625
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\01_Kik_Stereo_RR5.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\02_Kik_Stereo_RR5.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\03_Kik_Stereo_RR5.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\04_Kik_Stereo_RR5.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\05_Kik_Stereo_RR5.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\06_Kik_Stereo_RR5.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\07_Kik_Stereo_RR5.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\08_Kik_Stereo_RR5.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\09_Kik_Stereo_RR5.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\10_Kik_Stereo_RR5.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\11_Kik_Stereo_RR5.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\12_Kik_Stereo_RR5.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\13_Kik_Stereo_RR5.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\14_Kik_Stereo_RR5.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\15_Kik_Stereo_RR5.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\16_Kik_Stereo_RR5.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\17_Kik_Stereo_RR5.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\18_Kik_Stereo_RR5.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\19_Kik_Stereo_RR5.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\20_Kik_Stereo_RR5.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\21_Kik_Stereo_RR5.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\22_Kik_Stereo_RR5.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\23_Kik_Stereo_RR5.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\24_Kik_Stereo_RR5.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\25_Kik_Stereo_RR5.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\26_Kik_Stereo_RR5.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\27_Kik_Stereo_RR5.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\28_Kik_Stereo_RR5.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\29_Kik_Stereo_RR5.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\30_Kik_Stereo_RR5.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\31_Kik_Stereo_RR5.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR5\32_Kik_Stereo_RR5.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.625
+hirand=0.750
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\01_Kik_Stereo_RR6.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\02_Kik_Stereo_RR6.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\03_Kik_Stereo_RR6.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\04_Kik_Stereo_RR6.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\05_Kik_Stereo_RR6.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\06_Kik_Stereo_RR6.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\07_Kik_Stereo_RR6.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\08_Kik_Stereo_RR6.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\09_Kik_Stereo_RR6.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\10_Kik_Stereo_RR6.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\11_Kik_Stereo_RR6.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\12_Kik_Stereo_RR6.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\13_Kik_Stereo_RR6.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\14_Kik_Stereo_RR6.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\15_Kik_Stereo_RR6.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\16_Kik_Stereo_RR6.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\17_Kik_Stereo_RR6.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\18_Kik_Stereo_RR6.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\19_Kik_Stereo_RR6.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\20_Kik_Stereo_RR6.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\21_Kik_Stereo_RR6.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\22_Kik_Stereo_RR6.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\23_Kik_Stereo_RR6.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\24_Kik_Stereo_RR6.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\25_Kik_Stereo_RR6.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\26_Kik_Stereo_RR6.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\27_Kik_Stereo_RR6.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\28_Kik_Stereo_RR6.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\29_Kik_Stereo_RR6.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\30_Kik_Stereo_RR6.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\31_Kik_Stereo_RR6.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR6\32_Kik_Stereo_RR6.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.750
+hirand=0.875
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\01_Kik_Stereo_RR7.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\02_Kik_Stereo_RR7.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\03_Kik_Stereo_RR7.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\04_Kik_Stereo_RR7.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\05_Kik_Stereo_RR7.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\06_Kik_Stereo_RR7.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\07_Kik_Stereo_RR7.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\08_Kik_Stereo_RR7.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\09_Kik_Stereo_RR7.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\10_Kik_Stereo_RR7.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\11_Kik_Stereo_RR7.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\12_Kik_Stereo_RR7.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\13_Kik_Stereo_RR7.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\14_Kik_Stereo_RR7.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\15_Kik_Stereo_RR7.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\16_Kik_Stereo_RR7.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\17_Kik_Stereo_RR7.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\18_Kik_Stereo_RR7.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\19_Kik_Stereo_RR7.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\20_Kik_Stereo_RR7.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\21_Kik_Stereo_RR7.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\22_Kik_Stereo_RR7.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\23_Kik_Stereo_RR7.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\24_Kik_Stereo_RR7.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\25_Kik_Stereo_RR7.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\26_Kik_Stereo_RR7.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\27_Kik_Stereo_RR7.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\28_Kik_Stereo_RR7.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\29_Kik_Stereo_RR7.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\30_Kik_Stereo_RR7.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\31_Kik_Stereo_RR7.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR7\32_Kik_Stereo_RR7.wav
+lovel=124
+
+//========================
+<group>
+key=$KICKKEY
+lorand=0.875
+amp_veltrack=0
+amplitude_oncc$KICKV=100
+tune=-1200
+tune_oncc$KICKT=4800
+tune_curvecc$KICKT=9
+ampeg_hold=0.1
+ampeg_hold_oncc$KICKD=-0.1
+ampeg_hold_curvecc$KICKD=8
+ampeg_decay=0.3
+ampeg_decay_oncc$KICKD=-0.25
+ampeg_decay_curvecc$KICKD=8
+ampeg_sustain=100
+ampeg_sustain_oncc$KICKD=-100
+ampeg_sustain_curvecc$KICKD=7
+
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\01_Kik_Stereo_RR8.wav
+hivel=3
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\02_Kik_Stereo_RR8.wav
+lovel=4
+hivel=7
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\03_Kik_Stereo_RR8.wav
+lovel=8
+hivel=11
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\04_Kik_Stereo_RR8.wav
+lovel=12
+hivel=15
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\05_Kik_Stereo_RR8.wav
+lovel=16
+hivel=19
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\06_Kik_Stereo_RR8.wav
+lovel=20
+hivel=23
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\07_Kik_Stereo_RR8.wav
+lovel=24
+hivel=27
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\08_Kik_Stereo_RR8.wav
+lovel=28
+hivel=31
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\09_Kik_Stereo_RR8.wav
+lovel=32
+hivel=35
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\10_Kik_Stereo_RR8.wav
+lovel=36
+hivel=39
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\11_Kik_Stereo_RR8.wav
+lovel=40
+hivel=43
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\12_Kik_Stereo_RR8.wav
+lovel=44
+hivel=47
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\13_Kik_Stereo_RR8.wav
+lovel=48
+hivel=51
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\14_Kik_Stereo_RR8.wav
+lovel=52
+hivel=55
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\15_Kik_Stereo_RR8.wav
+lovel=56
+hivel=59
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\16_Kik_Stereo_RR8.wav
+lovel=60
+hivel=63
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\17_Kik_Stereo_RR8.wav
+lovel=64
+hivel=67
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\18_Kik_Stereo_RR8.wav
+lovel=68
+hivel=71
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\19_Kik_Stereo_RR8.wav
+lovel=72
+hivel=75
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\20_Kik_Stereo_RR8.wav
+lovel=76
+hivel=79
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\21_Kik_Stereo_RR8.wav
+lovel=80
+hivel=83
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\22_Kik_Stereo_RR8.wav
+lovel=84
+hivel=87
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\23_Kik_Stereo_RR8.wav
+lovel=88
+hivel=91
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\24_Kik_Stereo_RR8.wav
+lovel=92
+hivel=95
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\25_Kik_Stereo_RR8.wav
+lovel=96
+hivel=99
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\26_Kik_Stereo_RR8.wav
+lovel=100
+hivel=103
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\27_Kik_Stereo_RR8.wav
+lovel=104
+hivel=107
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\28_Kik_Stereo_RR8.wav
+lovel=108
+hivel=111
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\29_Kik_Stereo_RR8.wav
+lovel=112
+hivel=115
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\30_Kik_Stereo_RR8.wav
+lovel=116
+hivel=119
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\31_Kik_Stereo_RR8.wav
+lovel=120
+hivel=123
+
+<region>
+sample=..\Samples\SMDrum Stereo (Samples)\Kik_Stereo\RR8\32_Kik_Stereo_RR8.wav
+lovel=124
